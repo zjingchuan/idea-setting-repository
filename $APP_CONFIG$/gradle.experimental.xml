@@ -1,0 +1,5 @@
+<application>
+  <component name="GradleExperimentalSettings">
+    <option name="ENABLE_UNIT_TESTING_SUPPORT" value="true" />
+  </component>
+</application>
