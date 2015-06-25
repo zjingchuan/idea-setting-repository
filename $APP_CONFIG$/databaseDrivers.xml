@@ -81,5 +81,8 @@
         </library>
       </driver>
     </driver>
+    <driver id="odbc.sun" name="ODBC">
+      <option name="auto-sync" value="true" />
+    </driver>
   </component>
 </application>
