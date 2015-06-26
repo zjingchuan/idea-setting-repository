@@ -155,9 +155,7 @@
     <option name="myTypedURLs">
       <list>
         <option value="http://pms.iflyvoice.com:8888/svn/CMMI/020CMMI项目资料库/广东移动-UC客户端二期/010开发库/010代码库/" />
-        <option value="http://pms.iflyvoice.com:8888/svn/CMMI/020CMMI项目资料库/广东移动-UC客户端二期/010开发库/010代码库/Android" />
         <option value="http://211.155.28.247:8888/svn/vvm/client/android/plug/trunk" />
-        <option value="http://211.155.28.247:8888/svn/vvm/client/android/plug" />
         <option value="http://211.155.28.247:8888/svn/vvm" />
       </list>
     </option>
