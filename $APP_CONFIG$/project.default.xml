@@ -33,6 +33,7 @@
             <entry key="D:/AndroidWorkSpace/AdnroidApp/cheesesquare" value="4301968008712" />
             <entry key="D:/AndroidWorkSpace/Android" value="4305681243102" />
             <entry key="D:/AndroidWorkSpace/Android-CleanArchitecture" value="8581308468454" />
+            <entry key="D:/AndroidWorkSpace/UC" value="2856450086815" />
             <entry key="D:/AndroidWorkSpace/UCCaas_Second_Phase" value="2872098545285" />
             <entry key="D:/AndroidWorkSpace/VVMClient/branch_develop_0_8_1" value="10020994753145" />
             <entry key="D:/AndroidWorkSpace/VVMClient/develop" value="10026323909439" />
@@ -86,10 +87,10 @@
           <method />
         </configuration>
         <configuration default="true" type="Applet" factoryName="Applet">
-          <module />
           <option name="WIDTH" value="400" />
           <option name="HEIGHT" value="300" />
           <option name="POLICY_FILE" value="$APPLICATION_HOME_DIR$/bin/appletviewer.policy" />
+          <module />
           <method />
         </configuration>
         <configuration default="true" type="Application" factoryName="Application">
