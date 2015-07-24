@@ -79,7 +79,7 @@
         <property name="MemberChooser.sorted" value="false" />
         <property name="MemberChooser.showClasses" value="true" />
         <property name="MemberChooser.copyJavadoc" value="false" />
-        <property name="settings.editor.selected.configurable" value="File.Encoding" />
+        <property name="settings.editor.selected.configurable" value="com.genymobile.genymotion.ide.idea.GdmSettings" />
         <property name="settings.editor.splitter.proportion" value="0.2" />
       </component>
       <component name="RunManager">
