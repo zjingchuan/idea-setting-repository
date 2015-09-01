@@ -1,19 +1,6 @@
 <code_scheme name="Default (1)">
   <option name="GENERATE_FINAL_LOCALS" value="true" />
   <option name="GENERATE_FINAL_PARAMETERS" value="true" />
-  <AndroidXmlCodeStyleSettings>
-    <option name="USE_CUSTOM_SETTINGS" value="true" />
-    <option name="VALUE_RESOURCE_FILE_SETTINGS">
-      <value>
-        <option name="WRAP_ATTRIBUTES" value="4" />
-      </value>
-    </option>
-    <option name="OTHER_SETTINGS">
-      <value>
-        <option name="WRAP_ATTRIBUTES" value="4" />
-      </value>
-    </option>
-  </AndroidXmlCodeStyleSettings>
   <XML>
     <option name="XML_LEGACY_SETTINGS_IMPORTED" value="true" />
   </XML>
