@@ -1,9 +1,9 @@
 <application>
   <component name="FindSettings">
-    <option name="customScope" value="doc" />
-    <option name="defaultScopeName" value="doc" />
+    <option name="customScope" value="he" />
+    <option name="defaultScopeName" value="he" />
     <option name="localCaseSensitive" value="true" />
     <option name="LOCAL_CASE_SENSITIVE_SEARCH" value="true" />
-    <option name="SEARCH_SCOPE" value="doc" />
+    <option name="SEARCH_SCOPE" value="he" />
   </component>
 </application>
