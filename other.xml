@@ -142,7 +142,7 @@
     <option name="EXTRACT_SUPERCLASS_JAVADOC" value="1" />
     <option name="INTRODUCE_FIELD_VISIBILITY" value="private" />
     <option name="INTRODUCE_CONSTANT_VISIBILITY" value="public" />
-    <option name="INTRODUCE_LOCAL_CREATE_FINALS" value="true" />
+    <option name="INTRODUCE_LOCAL_CREATE_FINALS" value="false" />
   </component>
   <component name="SvnApplicationSettings">
     <option name="myCheckoutURLs">
