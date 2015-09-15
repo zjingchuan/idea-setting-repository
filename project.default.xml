@@ -2,7 +2,6 @@
   <component name="ProjectManager">
     <defaultProject version="4">
       <component name="CompilerConfiguration">
-        <option name="DEFAULT_COMPILER" />
         <resourceExtensions />
         <wildcardResourcePatterns>
           <entry name="!?*.java" />
@@ -21,44 +20,6 @@
           </profile>
         </annotationProcessing>
       </component>
-      <component name="Encoding" defaultCharsetForPropertiesFiles="UTF-8">
-        <file url="PROJECT" charset="UTF-8" />
-      </component>
-      <component name="GradleLocalSettings">
-        <option name="modificationStamps">
-          <map>
-            <entry key="D:/AndroidWorkSpace/AdnroidApp/Android-ItemTouchHelper-Demo" value="4310251477306" />
-            <entry key="D:/AndroidWorkSpace/AdnroidApp/DaggerExample" value="4283420662696" />
-            <entry key="D:/AndroidWorkSpace/AdnroidApp/android-play-places/PlaceComplete" value="4281743808579" />
-            <entry key="D:/AndroidWorkSpace/AdnroidApp/androidmvp" value="4283072420918" />
-            <entry key="D:/AndroidWorkSpace/AdnroidApp/cheesesquare" value="4301968008712" />
-            <entry key="D:/AndroidWorkSpace/Android" value="4305681243102" />
-            <entry key="D:/AndroidWorkSpace/Android-CleanArchitecture" value="8581308468454" />
-            <entry key="D:/AndroidWorkSpace/UC" value="2856450086815" />
-            <entry key="D:/AndroidWorkSpace/UCCaas_Second_Phase" value="2872098545285" />
-            <entry key="D:/AndroidWorkSpace/VMailSDK" value="4322338427994" />
-            <entry key="D:/AndroidWorkSpace/VVMClient/branch_develop_0_8_1" value="10020994753145" />
-            <entry key="D:/AndroidWorkSpace/VVMClient/develop" value="10026323909439" />
-            <entry key="D:/AndroidWorkSpace/VVMClient/tag_release_0_8_0_rename" value="5724204862049" />
-            <entry key="D:/AndroidWorkSpace/VVMClient/tag_release_1_0_0" value="8567168905213" />
-            <entry key="D:/AndroidWorkSpace/VVMClient/trunk" value="14333504982993" />
-            <entry key="D:/AndroidWorkSpace/deckard-gradle" value="1429243360599" />
-            <entry key="D:/WorkSpace/E56-Express" value="10045036351954" />
-            <entry key="D:/WorkSpace/UC/trunk" value="4302892107443" />
-            <entry key="D:/WorkSpace/baoqilai" value="7207784025754" />
-            <entry key="D:/WorkSpace/baoqilai/client" value="8651740592930" />
-            <entry key="D:/WorkSpace/baoqilai/trunk" value="7209781750300" />
-            <entry key="D:/WorkSpace/trunk" value="12966681357247" />
-          </map>
-        </option>
-      </component>
-      <component name="MavenImportPreferences">
-        <option name="generalSettings">
-          <MavenGeneralSettings>
-            <option name="mavenHome" value="Bundled (Maven 3)" />
-          </MavenGeneralSettings>
-        </option>
-      </component>
       <component name="NamedScopeManager">
         <order />
       </component>
@@ -75,18 +36,7 @@
       <component name="ProjectModuleManager">
         <modules />
       </component>
-      <component name="ProjectRootManager" version="2" languageLevel="JDK_1_6" assert-keyword="true" jdk-15="true" />
-      <component name="PropertiesComponent">
-        <property name="GoToClass.includeLibraries" value="false" />
-        <property name="GoToClass.toSaveIncludeLibraries" value="false" />
-        <property name="GoToFile.includeJavaFiles" value="false" />
-        <property name="MemberChooser.sorted" value="false" />
-        <property name="MemberChooser.showClasses" value="true" />
-        <property name="MemberChooser.copyJavadoc" value="false" />
-        <property name="settings.editor.selected.configurable" value="com.genymobile.genymotion.ide.idea.GdmSettings" />
-        <property name="settings.editor.splitter.proportion" value="0.2" />
-        <property name="last_opened_file_path" value="D:/WorkSpace/baoqilai/trunk" />
-      </component>
+      <component name="ProjectRootManager" version="2" languageLevel="JDK_1_6" default="true" assert-keyword="true" jdk-15="true" />
       <component name="RunManager">
         <configuration default="true" type="#org.jetbrains.idea.devkit.run.PluginConfigurationType" factoryName="Plugin">
           <module name="" />
@@ -95,10 +45,10 @@
           <method />
         </configuration>
         <configuration default="true" type="Applet" factoryName="Applet">
+          <module />
           <option name="WIDTH" value="400" />
           <option name="HEIGHT" value="300" />
           <option name="POLICY_FILE" value="$APPLICATION_HOME_DIR$/bin/appletviewer.policy" />
-          <module />
           <method />
         </configuration>
         <configuration default="true" type="Application" factoryName="Application">
@@ -173,25 +123,6 @@
           <listeners />
           <method />
         </configuration>
-      </component>
-      <component name="SvnConfiguration">
-        <configuration>C:\Users\jingchuan\AppData\Roaming\Subversion</configuration>
-      </component>
-      <component name="masterDetails">
-        <states>
-          <state key="ProjectJDKs.UI">
-            <settings>
-              <last-edited>1.7</last-edited>
-              <splitter-proportions>
-                <option name="proportions">
-                  <list>
-                    <option value="0.2" />
-                  </list>
-                </option>
-              </splitter-proportions>
-            </settings>
-          </state>
-        </states>
       </component>
     </defaultProject>
   </component>
