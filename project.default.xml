@@ -20,6 +20,16 @@
           </profile>
         </annotationProcessing>
       </component>
+      <component name="GradleLocalSettings">
+        <option name="modificationStamps">
+          <map>
+            <entry key="D:/WorkSpace/VVMClient/tag_release_1_1_0" value="10097332401980" />
+          </map>
+        </option>
+        <option name="externalProjectsViewState">
+          <projects_view />
+        </option>
+      </component>
       <component name="NamedScopeManager">
         <order />
       </component>
