@@ -6,6 +6,7 @@
       <mapping ext="vsdx" type="Native" />
       <mapping ext="mpp" type="Native" />
       <mapping pattern="themes" type="PLAIN_TEXT" />
+      <mapping ext="appcache" type="PLAIN_TEXT" />
       <mapping ext="jet" type="PLAIN_TEXT" />
       <mapping ext="so" type="PLAIN_TEXT" />
       <removed_mapping ext="so" type="UNKNOWN" />
