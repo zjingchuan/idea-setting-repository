@@ -9,8 +9,9 @@
       <mapping ext="appcache" type="PLAIN_TEXT" />
       <mapping ext="jet" type="PLAIN_TEXT" />
       <mapping ext="so" type="PLAIN_TEXT" />
+      <mapping pattern="*manifest" type="ProGuard File" />
       <mapping pattern="*appcache" type="Properties" />
-      <mapping ext="manifest" type="Properties" />
+      <removed_mapping ext="properties" type="Properties" />
       <removed_mapping ext="so" type="UNKNOWN" />
     </extensionMap>
   </component>
