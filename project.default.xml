@@ -1,6 +1,9 @@
 <application>
   <component name="ProjectManager">
     <defaultProject version="4">
+      <component name="AndroidDexCompilerConfiguration">
+        <option name="MAX_HEAP_SIZE" value="1024" />
+      </component>
       <component name="CompilerConfiguration">
         <resourceExtensions />
         <wildcardResourcePatterns>
@@ -19,6 +22,11 @@
             <processorPath useClasspath="true" />
           </profile>
         </annotationProcessing>
+      </component>
+      <component name="CompilerWorkspaceConfiguration">
+        <option name="MAKE_PROJECT_ON_SAVE" value="true" />
+        <option name="PARALLEL_COMPILATION" value="true" />
+        <option name="COMPILER_PROCESS_HEAP_SIZE" value="1024" />
       </component>
       <component name="Encoding" defaultCharsetForPropertiesFiles="UTF-8">
         <file url="PROJECT" charset="UTF-8" />
@@ -64,7 +72,7 @@
       <component name="ProjectRootManager" version="2" languageLevel="JDK_1_6" default="true" assert-keyword="true" jdk-15="true" />
       <component name="PropertiesComponent">
         <property name="last_opened_file_path" value="D:/WorkSpace/VVMClient/CloudGuardian" />
-        <property name="settings.editor.selected.configurable" value="File.Encoding" />
+        <property name="settings.editor.selected.configurable" value="project.propCompiler" />
         <property name="settings.editor.splitter.proportion" value="0.2" />
       </component>
       <component name="RunManager">
