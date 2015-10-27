@@ -1,9 +1,6 @@
 <application>
   <component name="ProjectManager">
     <defaultProject version="4">
-      <component name="AndroidDexCompilerConfiguration">
-        <option name="MAX_HEAP_SIZE" value="1024" />
-      </component>
       <component name="CompilerConfiguration">
         <resourceExtensions />
         <wildcardResourcePatterns>
@@ -23,29 +20,6 @@
           </profile>
         </annotationProcessing>
       </component>
-      <component name="CompilerWorkspaceConfiguration">
-        <option name="MAKE_PROJECT_ON_SAVE" value="true" />
-        <option name="PARALLEL_COMPILATION" value="true" />
-        <option name="COMPILER_PROCESS_HEAP_SIZE" value="1024" />
-      </component>
-      <component name="Encoding" defaultCharsetForPropertiesFiles="UTF-8">
-        <file url="PROJECT" charset="UTF-8" />
-      </component>
-      <component name="GradleLocalSettings">
-        <option name="modificationStamps">
-          <map>
-            <entry key="D:/WorkSpace/VVMClient/CloudGuardian" value="15877676853388" />
-            <entry key="D:/WorkSpace/VVMClient/release" value="8634077633172" />
-            <entry key="D:/WorkSpace/VVMClient/tag_release_1_1_0" value="10097332401980" />
-            <entry key="D:/WorkSpace/VVMClient/trunk" value="17299666851458" />
-            <entry key="D:/WorkSpace/baoqilai" value="8655800047386" />
-            <entry key="D:/WorkSpace/baoqilai/erp" value="8653143622109" />
-          </map>
-        </option>
-        <option name="externalProjectsViewState">
-          <projects_view />
-        </option>
-      </component>
       <component name="MavenImportPreferences">
         <option name="generalSettings">
           <MavenGeneralSettings>
@@ -55,6 +29,52 @@
       </component>
       <component name="NamedScopeManager">
         <order />
+      </component>
+      <component name="ProjectInspectionProfilesVisibleTreeState">
+        <entry key="Project Default">
+          <profile-state>
+            <expanded-state>
+              <State>
+                <id />
+              </State>
+              <State>
+                <id>Code style issuesJava</id>
+              </State>
+              <State>
+                <id>ImportsJava</id>
+              </State>
+              <State>
+                <id>Initialization issuesJava</id>
+              </State>
+              <State>
+                <id>J2ME issuesJava</id>
+              </State>
+              <State>
+                <id>Java</id>
+              </State>
+              <State>
+                <id>Java language level issuesJava</id>
+              </State>
+              <State>
+                <id>Java language level migration aidsJava</id>
+              </State>
+              <State>
+                <id>Performance issuesJava</id>
+              </State>
+              <State>
+                <id>Portability issuesJava</id>
+              </State>
+              <State>
+                <id>Threading issuesJava</id>
+              </State>
+            </expanded-state>
+            <selected-state>
+              <State>
+                <id>Android</id>
+              </State>
+            </selected-state>
+          </profile-state>
+        </entry>
       </component>
       <component name="ProjectLevelVcsManager" settingsEditedManually="false">
         <OptionsSetting value="true" id="Add" />
@@ -71,8 +91,7 @@
       </component>
       <component name="ProjectRootManager" version="2" languageLevel="JDK_1_6" default="true" assert-keyword="true" jdk-15="true" />
       <component name="PropertiesComponent">
-        <property name="last_opened_file_path" value="D:/WorkSpace/VVMClient/CloudGuardian" />
-        <property name="settings.editor.selected.configurable" value="project.propCompiler" />
+        <property name="settings.editor.selected.configurable" value="preferences.lookFeel" />
         <property name="settings.editor.splitter.proportion" value="0.2" />
       </component>
       <component name="RunManager">
@@ -162,11 +181,20 @@
           <method />
         </configuration>
       </component>
-      <component name="SvnConfiguration">
-        <configuration>C:\Users\zjingchuan\AppData\Roaming\Subversion</configuration>
-      </component>
-      <component name="VcsManagerConfiguration">
-        <option name="LAST_COMMIT_MESSAGE" value="" />
+      <component name="masterDetails">
+        <states>
+          <state key="ProjectJDKs.UI">
+            <settings>
+              <splitter-proportions>
+                <option name="proportions">
+                  <list>
+                    <option value="0.2" />
+                  </list>
+                </option>
+              </splitter-proportions>
+            </settings>
+          </state>
+        </states>
       </component>
     </defaultProject>
   </component>
