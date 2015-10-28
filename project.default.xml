@@ -103,6 +103,7 @@
       <component name="PropertiesComponent">
         <property name="settings.editor.selected.configurable" value="preferences.lookFeel" />
         <property name="settings.editor.splitter.proportion" value="0.2" />
+        <property name="last_opened_file_path" value="$USER_HOME$/WorkSpace" />
       </component>
       <component name="RunManager">
         <configuration default="true" type="#org.jetbrains.idea.devkit.run.PluginConfigurationType" factoryName="Plugin">
@@ -190,6 +191,9 @@
           <listeners />
           <method />
         </configuration>
+      </component>
+      <component name="SvnConfiguration">
+        <configuration>$USER_HOME$/.subversion</configuration>
       </component>
       <component name="masterDetails">
         <states>
