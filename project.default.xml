@@ -20,6 +20,16 @@
           </profile>
         </annotationProcessing>
       </component>
+      <component name="GradleLocalSettings">
+        <option name="modificationStamps">
+          <map>
+            <entry key="$USER_HOME$/WorkSpace/baoqilai" value="13011210311985" />
+          </map>
+        </option>
+        <option name="externalProjectsViewState">
+          <projects_view />
+        </option>
+      </component>
       <component name="MavenImportPreferences">
         <option name="generalSettings">
           <MavenGeneralSettings>
