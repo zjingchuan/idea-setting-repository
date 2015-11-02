@@ -148,7 +148,7 @@
   <component name="SvnApplicationSettings">
     <option name="myCheckoutURLs">
       <list>
-        <option value="http://pms.iflyvoice.com:8888/svn/CMMI/020CMMI项目资料库/广东移动-UC客户端二期/010开发库/010代码库/Android/UCCaas_Second_Phase" />
+        <option value="http://pms.iflyvoice.com:8888/svn/CMMI/020CMMI%E9%A1%B9%E7%9B%AE%E8%B5%84%E6%96%99%E5%BA%93/%E5%B9%BF%E4%B8%9C%E7%A7%BB%E5%8A%A8-UC%E5%AE%A2%E6%88%B7%E7%AB%AF%E4%BA%8C%E6%9C%9F/010%E5%BC%80%E5%8F%91%E5%BA%93/010%E4%BB%A3%E7%A0%81%E5%BA%93/Android/" />
         <option value="http://211.155.28.247:8888/svn/CMMI/010CMMI组织资料库/010标准过程库/030工程过程/020系统设计编码/模板" />
         <option value="http://120.25.0.55:883/svn/baoqilai" />
         <option value="http://211.155.28.247:8888/svn/vvm/client/android/plug/trunk" />
@@ -157,6 +157,7 @@
     </option>
     <option name="myTypedURLs">
       <list>
+        <option value="http://pms.iflyvoice.com:8888/svn/CMMI/020CMMI%E9%A1%B9%E7%9B%AE%E8%B5%84%E6%96%99%E5%BA%93/%E5%B9%BF%E4%B8%9C%E7%A7%BB%E5%8A%A8-UC%E5%AE%A2%E6%88%B7%E7%AB%AF%E4%BA%8C%E6%9C%9F/010%E5%BC%80%E5%8F%91%E5%BA%93/010%E4%BB%A3%E7%A0%81%E5%BA%93/Android/" />
         <option value="http://pms.iflyvoice.com:8888/svn/CMMI/020CMMI项目资料库/广东移动-UC客户端二期/010开发库/010代码库/Android/UCCaas_Second_Phase" />
         <option value="http://211.155.28.247:8888/svn/CMMI/010CMMI组织资料库/010标准过程库/030工程过程/020系统设计编码/模板" />
         <option value="http://120.25.0.55:883/svn/baoqilai" />
