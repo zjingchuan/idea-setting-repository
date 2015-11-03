@@ -148,6 +148,7 @@
   <component name="SvnApplicationSettings">
     <option name="myCheckoutURLs">
       <list>
+        <option value="http://pms.iflyvoice.com:8888/svn/CMMI/020CMMI项目资料库/广东移动-UC客户端二期/010开发库/010代码库/Android/" />
         <option value="http://211.155.28.247:8888/svn/CMMI/010CMMI组织资料库/010标准过程库/030工程过程/020系统设计编码/模板" />
         <option value="http://120.25.0.55:883/svn/baoqilai" />
         <option value="http://211.155.28.247:8888/svn/vvm/client/android/plug/trunk" />
@@ -156,6 +157,7 @@
     </option>
     <option name="myTypedURLs">
       <list>
+        <option value="http://pms.iflyvoice.com:8888/svn/CMMI/020CMMI项目资料库/广东移动-UC客户端二期/010开发库/010代码库/Android/" />
         <option value="http://211.155.28.247:8888/svn/CMMI/010CMMI组织资料库/010标准过程库/030工程过程/020系统设计编码/模板" />
         <option value="http://120.25.0.55:883/svn/baoqilai" />
         <option value="svn://14.23.113.170/baoqilai/" />
