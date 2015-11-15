@@ -6,12 +6,6 @@
   <option name="EDITOR_QUICK_DOC_FONT_SIZE" value="LARGE" />
   <option name="EDITOR_FONT_NAME" value="Source Code Pro" />
   <attributes>
-    <option name="CSS.COLOR" baseAttributes="CSS.IDENT" />
-    <option name="CSS.IMPORTANT" baseAttributes="DEFAULT_KEYWORD" />
-    <option name="CSS.KEYWORD" baseAttributes="DEFAULT_KEYWORD" />
-    <option name="CSS.TAG_NAME" baseAttributes="HTML_TAG_NAME" />
-    <option name="CSS.URL" baseAttributes="HTML_ATTRIBUTE_VALUE" />
-    <option name="Class" baseAttributes="DEFAULT_CLASS_REFERENCE" />
     <option name="DEFAULT_CLASS_REFERENCE" baseAttributes="DEFAULT_IDENTIFIER" />
     <option name="DEFAULT_CONSTANT" baseAttributes="DEFAULT_IDENTIFIER" />
     <option name="DEFAULT_FUNCTION_CALL" baseAttributes="DEFAULT_IDENTIFIER" />
@@ -22,7 +16,6 @@
     <option name="DEFAULT_STATIC_FIELD" baseAttributes="DEFAULT_IDENTIFIER" />
     <option name="DEFAULT_STATIC_METHOD" baseAttributes="DEFAULT_FUNCTION_DECLARATION" />
     <option name="DEFAULT_TEMPLATE_LANGUAGE_COLOR" baseAttributes="TEXT" />
-    <option name="Groovy method declaration" baseAttributes="METHOD_DECLARATION_ATTRIBUTES" />
     <option name="HTML_ATTRIBUTE_NAME" baseAttributes="DEFAULT_ATTRIBUTE" />
     <option name="HTML_ATTRIBUTE_VALUE" baseAttributes="DEFAULT_STRING" />
     <option name="HTML_ENTITY_REFERENCE" baseAttributes="DEFAULT_ENTITY" />
@@ -42,12 +35,7 @@
         <option name="FOREGROUND" value="40bb4f" />
       </value>
     </option>
-    <option name="List/map to object conversion" baseAttributes="JAVA_NUMBER" />
-    <option name="SQL_SYNTHETIC_ENTITY" baseAttributes="DEFAULT_PREDEFINED_SYMBOL" />
     <option name="STATIC_FINAL_FIELD_ATTRIBUTES" baseAttributes="STATIC_FIELD_ATTRIBUTES" />
-    <option name="Static method access" baseAttributes="STATIC_METHOD_ATTRIBUTES" />
-    <option name="Static property reference ID" baseAttributes="STATIC_FINAL_FIELD_ATTRIBUTES" />
-    <option name="Unresolved reference access" baseAttributes="DEFAULT_IDENTIFIER" />
     <option name="XML_ATTRIBUTE_NAME" baseAttributes="DEFAULT_ATTRIBUTE" />
     <option name="XML_ENTITY_REFERENCE" baseAttributes="DEFAULT_ENTITY" />
     <option name="XML_PROLOGUE" baseAttributes="TEXT" />
