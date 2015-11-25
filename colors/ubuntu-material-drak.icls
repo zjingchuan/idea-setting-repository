@@ -471,7 +471,7 @@
     <option name="DEFAULT_LABEL" baseAttributes="DEFAULT_IDENTIFIER" />
     <option name="DEFAULT_LINE_COMMENT">
       <value>
-        <option name="FOREGROUND" value="444444" />
+        <option name="FOREGROUND" value="9c9c9c" />
       </value>
     </option>
     <option name="DEFAULT_LOCAL_VARIABLE">
