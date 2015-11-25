@@ -122,6 +122,11 @@
         <option name="BACKGROUND" value="252b39" />
       </value>
     </option>
+    <option name="CLASS_NAME_ATTRIBUTES">
+      <value>
+        <option name="FOREGROUND" value="e03c05" />
+      </value>
+    </option>
     <option name="CLASS_REFERENCE">
       <value>
         <option name="FOREGROUND" value="1a1f29" />
@@ -410,7 +415,7 @@
     </option>
     <option name="DEFAULT_DOC_COMMENT">
       <value>
-        <option name="FOREGROUND" value="444444" />
+        <option name="FOREGROUND" value="6dbb5a" />
       </value>
     </option>
     <option name="DEFAULT_DOC_COMMENT_TAG">
@@ -421,13 +426,14 @@
     </option>
     <option name="DEFAULT_DOC_COMMENT_TAG_VALUE">
       <value>
-        <option name="FOREGROUND" value="444444" />
+        <option name="FOREGROUND" value="bcbb53" />
         <option name="FONT_TYPE" value="3" />
       </value>
     </option>
     <option name="DEFAULT_DOC_MARKUP">
       <value>
-        <option name="FOREGROUND" value="444444" />
+        <option name="FOREGROUND" value="6dbb5a" />
+        <option name="FONT_TYPE" value="2" />
       </value>
     </option>
     <option name="DEFAULT_ENTITY" baseAttributes="DEFAULT_IDENTIFIER" />
@@ -516,7 +522,8 @@
     </option>
     <option name="DEFAULT_STRING">
       <value>
-        <option name="FOREGROUND" value="c3e887" />
+        <option name="FOREGROUND" value="2cbb3e" />
+        <option name="FONT_TYPE" value="2" />
       </value>
     </option>
     <option name="DEFAULT_TAG" baseAttributes="TEXT" />
@@ -614,11 +621,7 @@
     <option name="GHERKIN_OUTLINE_PARAMETER_SUBSTITUTION" baseAttributes="DEFAULT_INSTANCE_FIELD" />
     <option name="GHERKIN_PYSTRING" baseAttributes="DEFAULT_STRING" />
     <option name="GHERKIN_REGEXP_PARAMETER" baseAttributes="DEFAULT_PARAMETER" />
-    <option name="GROOVY_KEYWORD">
-      <value>
-        <option name="FOREGROUND" value="a7dbd8" />
-      </value>
-    </option>
+    <option name="GROOVY_KEYWORD" baseAttributes="JAVA_KEYWORD" />
     <option name="GString">
       <value>
         <option name="FOREGROUND" value="6a8759" />
@@ -716,8 +719,14 @@
     </option>
     <option name="INSTANCE_FIELD_ATTRIBUTES">
       <value>
-        <option name="FOREGROUND" value="1a1f29" />
+        <option name="FOREGROUND" value="bbbb7a" />
         <option name="EFFECT_TYPE" value="1" />
+      </value>
+    </option>
+    <option name="INTERFACE_NAME_ATTRIBUTES">
+      <value>
+        <option name="FOREGROUND" value="64e833" />
+        <option name="FONT_TYPE" value="3" />
       </value>
     </option>
     <option name="IVAR">
@@ -727,22 +736,13 @@
     </option>
     <option name="Instance field">
       <value>
-        <option name="FOREGROUND" value="1a1f29" />
+        <option name="FOREGROUND" value="dc731e" />
       </value>
     </option>
-    <option name="Instance property reference ID">
-      <value>
-        <option name="FOREGROUND" value="1a1f29" />
-      </value>
-    </option>
+    <option name="Instance property reference ID" baseAttributes="INSTANCE_FIELD_ATTRIBUTES" />
     <option name="JAVA_COMMA">
       <value>
         <option name="FOREGROUND" value="a7dbd8" />
-      </value>
-    </option>
-    <option name="JAVA_DOC_COMMENT">
-      <value>
-        <option name="FOREGROUND" value="505c63" />
       </value>
     </option>
     <option name="JAVA_DOC_TAG">
@@ -752,7 +752,7 @@
     </option>
     <option name="JAVA_KEYWORD">
       <value>
-        <option name="FOREGROUND" value="a7dbd8" />
+        <option name="FOREGROUND" value="57d3be" />
       </value>
     </option>
     <option name="JAVA_NUMBER">
@@ -1012,11 +1012,6 @@
         <option name="EFFECT_TYPE" value="2" />
       </value>
     </option>
-    <option name="Number">
-      <value>
-        <option name="FOREGROUND" value="f25619" />
-      </value>
-    </option>
     <option name="OC.CPP_KEYWORD">
       <value>
         <option name="FOREGROUND" value="a7dbd8" />
@@ -1060,6 +1055,12 @@
     <option name="OC_FORMAT_TOKEN">
       <value>
         <option name="FOREGROUND" value="a7dbd8" />
+      </value>
+    </option>
+    <option name="PARAMETER_ATTRIBUTES">
+      <value>
+        <option name="FOREGROUND" value="dc731e" />
+        <option name="FONT_TYPE" value="2" />
       </value>
     </option>
     <option name="PHP_CLASS">
@@ -1217,35 +1218,19 @@
     </option>
     <option name="STATIC_FIELD_ATTRIBUTES">
       <value>
-        <option name="FOREGROUND" value="1a1f29" />
-        <option name="FONT_TYPE" value="2" />
+        <option name="FOREGROUND" value="db3d54" />
+        <option name="FONT_TYPE" value="1" />
         <option name="EFFECT_TYPE" value="1" />
       </value>
     </option>
     <option name="STATIC_FINAL_FIELD_ATTRIBUTES">
       <value>
-        <option name="FOREGROUND" value="1a1f29" />
-        <option name="FONT_TYPE" value="2" />
+        <option name="FOREGROUND" value="2cbb3e" />
+        <option name="FONT_TYPE" value="1" />
         <option name="EFFECT_TYPE" value="1" />
       </value>
     </option>
-    <option name="Static method access">
-      <value>
-        <option name="FOREGROUND" value="1a1f29" />
-        <option name="FONT_TYPE" value="2" />
-      </value>
-    </option>
-    <option name="Static property reference ID">
-      <value>
-        <option name="FOREGROUND" value="1a1f29" />
-        <option name="FONT_TYPE" value="2" />
-      </value>
-    </option>
-    <option name="String">
-      <value>
-        <option name="FOREGROUND" value="f36e3a" />
-      </value>
-    </option>
+    <option name="Static property reference ID" baseAttributes="STATIC_FINAL_FIELD_ATTRIBUTES" />
     <option name="TAPESTRY_COMPONENT_TAG">
       <value>
         <option name="FOREGROUND" value="a7dbd8" />
@@ -1296,13 +1281,7 @@
         <option name="FOREGROUND" value="d1243b" />
       </value>
     </option>
-    <option name="Unresolved reference access">
-      <value>
-        <option name="FOREGROUND" value="808080" />
-        <option name="EFFECT_COLOR" value="808080" />
-        <option name="EFFECT_TYPE" value="1" />
-      </value>
-    </option>
+    <option name="Unresolved reference access" baseAttributes="DEFAULT_IDENTIFIER" />
     <option name="VELOCITY_KEYWORD">
       <value>
         <option name="FOREGROUND" value="a7dbd8" />
@@ -1317,11 +1296,6 @@
     <option name="VELOCITY_SCRIPTING_BACKGROUND">
       <value>
         <option name="BACKGROUND" value="252b39" />
-      </value>
-    </option>
-    <option name="Valid string escape">
-      <value>
-        <option name="FOREGROUND" value="a7dbd8" />
       </value>
     </option>
     <option name="WARNING_ATTRIBUTES">
