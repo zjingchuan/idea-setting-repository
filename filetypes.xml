@@ -1,11 +1,11 @@
 <application>
   <component name="FileTypeManager" version="16">
     <extensionMap>
-      <mapping ext="mpp" type="Native" />
       <mapping ext="vsdx" type="Native" />
+      <mapping ext="mpp" type="Native" />
       <mapping ext="exe" type="Native" />
-      <mapping pattern="到 sublime_text 的链接" type="PLAIN_TEXT" />
       <mapping pattern="themes" type="PLAIN_TEXT" />
+      <mapping pattern="到 sublime_text 的链接" type="PLAIN_TEXT" />
       <mapping ext="jet" type="PLAIN_TEXT" />
       <mapping ext="so" type="PLAIN_TEXT" />
       <mapping ext="appcache" type="PLAIN_TEXT" />
