@@ -105,7 +105,7 @@
       <component name="PropertiesComponent">
         <property name="settings.editor.selected.configurable" value="reference.settingsdialog.IDE.editor.colors.Font" />
         <property name="settings.editor.splitter.proportion" value="0.2" />
-        <property name="last_opened_file_path" value="$USER_HOME$/WorkSpace" />
+        <property name="last_opened_file_path" value="D:/WorkSpace" />
       </component>
       <component name="RunManager">
         <configuration default="true" type="#org.jetbrains.idea.devkit.run.PluginConfigurationType" factoryName="Plugin">
@@ -195,7 +195,7 @@
         </configuration>
       </component>
       <component name="SvnConfiguration">
-        <configuration>$USER_HOME$/.subversion</configuration>
+        <configuration>C:\Users\zjingchuan\AppData\Roaming\Subversion</configuration>
       </component>
       <component name="masterDetails">
         <states>
