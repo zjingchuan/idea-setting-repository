@@ -6,7 +6,7 @@
     <option name="EDITOR_FONT_SIZE" value="16" />
   </console-font>
   <console-font>
-    <option name="EDITOR_FONT_NAME" value="Source Code Pro" />
+    <option name="EDITOR_FONT_NAME" value="方正黑体_GBK" />
     <option name="EDITOR_FONT_SIZE" value="16" />
   </console-font>
   <option name="EDITOR_QUICK_DOC_FONT_SIZE" value="LARGE" />
@@ -14,7 +14,7 @@
   <attributes>
     <option name="LOGCAT_DEBUG_OUTPUT">
       <value>
-        <option name="FOREGROUND" value="396fbb" />
+        <option name="FOREGROUND" value="50aef1" />
       </value>
     </option>
     <option name="LOGCAT_INFO_OUTPUT">
