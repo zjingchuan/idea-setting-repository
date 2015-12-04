@@ -1,14 +1,6 @@
 <scheme name="ubuntu15" version="142" parent_scheme="Darcula">
   <option name="LINE_SPACING" value="1.0" />
   <option name="EDITOR_FONT_SIZE" value="16" />
-  <console-font>
-    <option name="EDITOR_FONT_NAME" value="Monospaced" />
-    <option name="EDITOR_FONT_SIZE" value="16" />
-  </console-font>
-  <console-font>
-    <option name="EDITOR_FONT_NAME" value="方正黑体_GBK" />
-    <option name="EDITOR_FONT_SIZE" value="16" />
-  </console-font>
   <option name="EDITOR_QUICK_DOC_FONT_SIZE" value="LARGE" />
   <option name="EDITOR_FONT_NAME" value="Source Code Pro Medium" />
   <attributes>
