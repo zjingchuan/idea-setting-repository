@@ -1,17 +1,16 @@
 <application>
-  <component name="FileTypeManager" version="14">
-    <ignoreFiles list="*.hprof;*.pyc;*.pyo;*.rbc;*~;.DS_Store;.bundle;.git;.hg;.svn;.tox;CVS;RCS;SCCS;__pycache__;_svn;rcs;vssver.scc;vssver2.scc;" />
+  <component name="FileTypeManager" version="16">
     <extensionMap>
-      <mapping ext="exe" type="Native" />
       <mapping ext="vsdx" type="Native" />
       <mapping ext="mpp" type="Native" />
-      <mapping pattern="到 sublime_text 的链接" type="PLAIN_TEXT" />
-      <mapping pattern="themes" type="PLAIN_TEXT" />
+      <mapping ext="exe" type="Native" />
       <mapping pattern="插件打包说明" type="PLAIN_TEXT" />
-      <mapping ext="appcache" type="PLAIN_TEXT" />
+      <mapping pattern="themes" type="PLAIN_TEXT" />
+      <mapping pattern="到 sublime_text 的链接" type="PLAIN_TEXT" />
       <mapping ext="jet" type="PLAIN_TEXT" />
-      <mapping ext="md" type="PLAIN_TEXT" />
       <mapping ext="so" type="PLAIN_TEXT" />
+      <mapping ext="appcache" type="PLAIN_TEXT" />
+      <mapping ext="md" type="PLAIN_TEXT" />
       <mapping pattern="*manifest" type="ProGuard File" />
       <removed_mapping ext="so" type="UNKNOWN" />
     </extensionMap>
