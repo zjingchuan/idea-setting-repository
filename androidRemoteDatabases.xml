@@ -1,0 +1,25 @@
+<application>
+  <component name="AndroidRemoteDataBaseManager">
+    <databases>
+      <entry>
+        <key>
+          <db-key>
+            <option name="deviceId" value="SERIAL_NUMBER_b31e5fe9" />
+            <option name="packageName" value="com.yunhufu.app" />
+            <option name="databaseName" value="yunhufu.db" />
+          </db-key>
+        </key>
+        <value>
+          <db-info>
+            <option name="modificationTime" value="1458186146" />
+            <option name="referringProjects">
+              <set>
+                <option value="D:/WorkSpace/yunhufu" />
+              </set>
+            </option>
+          </db-info>
+        </value>
+      </entry>
+    </databases>
+  </component>
+</application>
