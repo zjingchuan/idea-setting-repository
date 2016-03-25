@@ -8,6 +8,7 @@
       <mapping pattern="插件打包说明" type="PLAIN_TEXT" />
       <mapping pattern="到 sublime_text 的链接" type="PLAIN_TEXT" />
       <mapping pattern="themes" type="PLAIN_TEXT" />
+      <mapping pattern=".babelr" type="PLAIN_TEXT" />
       <mapping ext="jet" type="PLAIN_TEXT" />
       <mapping ext="so" type="PLAIN_TEXT" />
       <mapping ext="appcache" type="PLAIN_TEXT" />
