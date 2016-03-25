@@ -1,0 +1,15 @@
+<templateSet group="Bootstrap3">
+  <template name="bs3-alert" value="&lt;div class=&quot;alert&quot;&gt;&#10;&#9;&lt;button type=&quot;button&quot; class=&quot;close&quot; data-dismiss=&quot;alert&quot; aria-hidden=&quot;true&quot;&gt;&amp;times;&lt;/button&gt;&#10;&#9;&lt;strong&gt;$var1$&lt;/strong&gt; $var2$&#10;&lt;/div&gt;$END$" description="Alert" toReformat="false" toShortenFQNames="false">
+    <variable name="var1" expression="&quot;Title!&quot;" defaultValue="" alwaysStopAt="true" />
+    <variable name="var2" expression="&quot;Alert body ...&quot;" defaultValue="" alwaysStopAt="true" />
+    <context>
+      <option name="JAVA_SCRIPT" value="true" />
+      <option name="JS_EXPRESSION" value="true" />
+      <option name="JSX_HTML" value="true" />
+      <option name="JS_STATEMENT" value="true" />
+    </context>
+  </template>
+  <template name="bs3-alert-link" value="&lt;div class=&quot;alert alert-warning&quot; role=&quot;alert&quot;&gt;&#10;   &lt;strong&gt;Warning!&lt;/strong&gt; Better check yourself, you're &lt;a href=&quot;#&quot; class=&quot;alert-link&quot;&gt;not looking too good&lt;/a&gt;.&#10;&lt;/div&gt;$END$" description="Alert with alert link (warning)" toReformat="true" toShortenFQNames="false">
+    <context />
+  </template>
+</templateSet>
