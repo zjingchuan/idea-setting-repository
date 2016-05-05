@@ -1,7 +1,7 @@
 <scheme name="ubuntu15" version="142" parent_scheme="Darcula">
   <option name="LINE_SPACING" value="1.0" />
   <option name="EDITOR_FONT_SIZE" value="16" />
-  <option name="EDITOR_QUICK_DOC_FONT_SIZE" value="LARGE" />
+  <option name="EDITOR_QUICK_DOC_FONT_SIZE" value="MEDIUM" />
   <option name="EDITOR_FONT_NAME" value="Source Code Pro Medium" />
   <attributes>
     <option name="LOGCAT_DEBUG_OUTPUT">
