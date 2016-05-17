@@ -1,5 +1,6 @@
 <application>
   <component name="UISettings">
+    <option name="FONT_FACE" value="Source Han Sans Medium" />
     <option name="FONT_SIZE" value="16" />
     <option name="RECENT_FILES_LIMIT" value="10" />
     <option name="CONSOLE_COMMAND_HISTORY_LIMIT" value="10" />
