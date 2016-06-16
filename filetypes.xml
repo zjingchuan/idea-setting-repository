@@ -12,6 +12,7 @@
       <mapping ext="jet" type="PLAIN_TEXT" />
       <mapping ext="so" type="PLAIN_TEXT" />
       <mapping ext="appcache" type="PLAIN_TEXT" />
+      <mapping ext="md" type="PLAIN_TEXT" />
       <mapping pattern="*manifest" type="ProGuard File" />
       <removed_mapping ext="so" type="UNKNOWN" />
     </extensionMap>
