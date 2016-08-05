@@ -1,7 +1,6 @@
 <application>
   <component name="FileTypeManager" version="17">
     <extensionMap>
-      <removed_mapping ext="md" approved="true" type="Markdown" />
       <mapping ext="vsdx" type="Native" />
       <mapping ext="mpp" type="Native" />
       <mapping ext="exe" type="Native" />
@@ -14,7 +13,6 @@
       <mapping ext="jet" type="PLAIN_TEXT" />
       <mapping ext="so" type="PLAIN_TEXT" />
       <mapping ext="appcache" type="PLAIN_TEXT" />
-      <mapping ext="md" type="PLAIN_TEXT" />
       <mapping pattern="*manifest" type="ProGuard File" />
       <removed_mapping ext="so" type="UNKNOWN" />
     </extensionMap>
