@@ -1,6 +1,7 @@
 <application>
   <component name="FileTypeManager" version="17">
     <extensionMap>
+      <removed_mapping ext="md" approved="true" type="Markdown" />
       <mapping ext="vsdx" type="Native" />
       <mapping ext="mpp" type="Native" />
       <mapping ext="exe" type="Native" />
