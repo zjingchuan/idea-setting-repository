@@ -156,6 +156,12 @@
       </map>
     </option>
   </component>
+  <component name="ToStringSettings">
+    <option name="insertNewMethodInitialOption" value="At the end of class" />
+    <option name="replaceDialogInitialOption" value="Replace existing" />
+    <option name="insertNewMethodOption" value="At the end of class" />
+    <option name="whenDuplicatesOption" value="Replace existing" />
+  </component>
   <component name="com.intellij.ide.fileTemplates.impl.FileTemplateManagerImpl">
     <recent_templates>
       <option name="RECENT_TEMPLATES">
