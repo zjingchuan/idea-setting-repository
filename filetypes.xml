@@ -11,6 +11,7 @@
       <mapping pattern="themes" type="PLAIN_TEXT" />
       <mapping pattern=".babelr" type="PLAIN_TEXT" />
       <mapping ext="jet" type="PLAIN_TEXT" />
+      <mapping ext="keystore" type="PLAIN_TEXT" />
       <mapping ext="so" type="PLAIN_TEXT" />
       <mapping ext="appcache" type="PLAIN_TEXT" />
       <mapping ext="progerties" type="PLAIN_TEXT" />
