@@ -6,8 +6,10 @@
       <mapping ext="exe" type="Native" />
       <mapping pattern="插件打包说明" type="PLAIN_TEXT" />
       <mapping pattern="到 sublime_text 的链接" type="PLAIN_TEXT" />
+      <mapping pattern="ls" type="PLAIN_TEXT" />
       <mapping pattern="只能应答设置查询" type="PLAIN_TEXT" />
       <mapping pattern="button_divider" type="PLAIN_TEXT" />
+      <mapping pattern="scp" type="PLAIN_TEXT" />
       <mapping pattern="themes" type="PLAIN_TEXT" />
       <mapping pattern=".babelr" type="PLAIN_TEXT" />
       <mapping ext="jet" type="PLAIN_TEXT" />
