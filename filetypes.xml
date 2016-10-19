@@ -18,6 +18,8 @@
       <mapping ext="so" type="PLAIN_TEXT" />
       <mapping ext="appcache" type="PLAIN_TEXT" />
       <mapping ext="progerties" type="PLAIN_TEXT" />
+      <mapping ext="containe" type="PLAIN_TEXT" />
+      <mapping ext="container" type="PLAIN_TEXT" />
       <mapping ext="textclipping" type="PLAIN_TEXT" />
       <mapping pattern="*manifest" type="ProGuard File" />
       <removed_mapping ext="so" type="UNKNOWN" />
