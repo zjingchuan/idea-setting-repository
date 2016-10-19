@@ -5,6 +5,7 @@
       <mapping ext="mpp" type="Native" />
       <mapping ext="exe" type="Native" />
       <mapping pattern="插件打包说明" type="PLAIN_TEXT" />
+      <mapping pattern="Container" type="PLAIN_TEXT" />
       <mapping pattern="到 sublime_text 的链接" type="PLAIN_TEXT" />
       <mapping pattern="ls" type="PLAIN_TEXT" />
       <mapping pattern="只能应答设置查询" type="PLAIN_TEXT" />
