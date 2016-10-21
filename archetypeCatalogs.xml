@@ -1,5 +1,6 @@
 <application>
   <component name="ArchetypeCatalogSettings">
     <archetype-catalog>http://120.236.141.162:8879/nexus/service/local/repositories/vvm-v3/content/archetype-catalog.xml</archetype-catalog>
+    <archetype-catalog>http://192.168.88.137:8879/nexus/service/local/repositories/snapshots/content/archetype-catalog.xml</archetype-catalog>
   </component>
 </application>
