@@ -1,5 +1,8 @@
 <scheme name="windows" version="142" parent_scheme="Darcula">
-  <option name="LINE_SPACING" value="1.0" />
+  <metaInfo>
+    <property name="modified">2016-11-23T10:48:50</property>
+    <property name="rainbow Default language">true</property>
+  </metaInfo>
   <font>
     <option name="EDITOR_FONT_NAME" value="Source Code Pro Medium" />
     <option name="EDITOR_FONT_SIZE" value="16" />
