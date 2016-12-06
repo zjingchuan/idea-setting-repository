@@ -5,5 +5,9 @@
     <option name="PATTERN_ANNOTATION" value="org.intellij.lang.annotations.Pattern" />
     <option name="SUBST_ANNOTATION" value="org.intellij.lang.annotations.Subst" />
     <option name="RESOLVE_REFERENCES" value="true" />
+    <injection language="XML" injector-id="java">
+      <display-name>BaseCompatController.getPostData (com.iflyzunhong.vvm3.clientapp.compat.controller)</display-name>
+      <place><![CDATA[psiMethod().withName("getPostData").withParameters("int", "javax.servlet.ServletRequest").definedInClass("com.iflyzunhong.vvm3.clientapp.compat.controller.BaseCompatController")]]></place>
+    </injection>
   </component>
 </application>
