@@ -1,6 +1,8 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="Controller" />
+      <item value="Base Compat Controller" />
       <item value="Inconsistency" />
       <item value="Range" />
       <item value="Observer base class for watching changes to an" />
