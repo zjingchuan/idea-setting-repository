@@ -1,6 +1,8 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="Select Channel Connector" />
+      <item value="Duplicate" />
       <item value="Controller" />
       <item value="Base Compat Controller" />
       <item value="Inconsistency" />
