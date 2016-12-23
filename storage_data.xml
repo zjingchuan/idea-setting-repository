@@ -1,6 +1,12 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="expose Proxy" />
+      <item value="Garbage Collector Metric Set" />
+      <item value="File Descriptor Ratio Gauge" />
+      <item value="Ratio Gauge" />
+      <item value="Metric" />
+      <item value="Metric Set" />
       <item value="honor" />
       <item value="头衔" />
       <item value="Select Channel Connector" />
