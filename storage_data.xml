@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="Meters" />
       <item value="expose Proxy" />
       <item value="Garbage Collector Metric Set" />
       <item value="File Descriptor Ratio Gauge" />
