@@ -1,6 +1,9 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="Metrics" />
+      <item value="Rates" />
+      <item value="convert Rates To" />
       <item value="Meters" />
       <item value="expose Proxy" />
       <item value="Garbage Collector Metric Set" />
