@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="Gauges" />
       <item value="Instrumented" />
       <item value="Instrumented Handler" />
       <item value="precision" />
