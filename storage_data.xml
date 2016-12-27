@@ -1,6 +1,8 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="Instrumented" />
+      <item value="Instrumented Handler" />
       <item value="precision" />
       <item value="Metrics" />
       <item value="Rates" />
