@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="declared" />
       <item value="digest" />
       <item value="Announces" />
       <item value="solr" />
