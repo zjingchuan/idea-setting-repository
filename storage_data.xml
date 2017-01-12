@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="acquired" />
       <item value="affected" />
       <item value="migrate Property" />
       <item value="活动" />
@@ -50,7 +51,6 @@
       <item value="an" />
       <item value="Type" />
       <item value="好的" />
-      <item value="m 字段" />
     </histories>
   </component>
 </application>
