@@ -1,6 +1,8 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="Custom Gauges" />
+      <item value="Ratio Gauge" />
       <item value="Histogram" />
       <item value="histogram" />
       <item value="随机" />
@@ -40,7 +42,6 @@
       <item value="expose Proxy" />
       <item value="Garbage Collector Metric Set" />
       <item value="File Descriptor Ratio Gauge" />
-      <item value="Ratio Gauge" />
       <item value="Metric" />
       <item value="Metric Set" />
       <item value="honor" />
@@ -50,7 +51,6 @@
       <item value="Controller" />
       <item value="Base Compat Controller" />
       <item value="Inconsistency" />
-      <item value="Range" />
     </histories>
   </component>
 </application>
