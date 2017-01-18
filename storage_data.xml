@@ -1,6 +1,9 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="drilldown" />
+      <item value="mean" />
+      <item value="legend" />
       <item value="Custom Gauges" />
       <item value="Ratio Gauge" />
       <item value="Histogram" />
@@ -48,9 +51,6 @@
       <item value="头衔" />
       <item value="Select Channel Connector" />
       <item value="Duplicate" />
-      <item value="Controller" />
-      <item value="Base Compat Controller" />
-      <item value="Inconsistency" />
     </histories>
   </component>
 </application>
