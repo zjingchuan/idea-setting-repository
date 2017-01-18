@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="随机" />
       <item value="monitor" />
       <item value="acquired" />
       <item value="affected" />
@@ -50,7 +51,6 @@
       <item value="Range" />
       <item value="Observer base class for watching changes to an" />
       <item value="an" />
-      <item value="Type" />
     </histories>
   </component>
 </application>
