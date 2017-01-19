@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="advise" />
       <item value="A gauge for the ratio of used to total file descriptors" />
       <item value="gauges" />
       <item value="drilldown" />
@@ -50,7 +51,6 @@
       <item value="Metric" />
       <item value="Metric Set" />
       <item value="honor" />
-      <item value="头衔" />
     </histories>
   </component>
 </application>
