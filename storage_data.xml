@@ -1,6 +1,8 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="absolute" />
+      <item value="eligible" />
       <item value="软件" />
       <item value="get Signature" />
       <item value="advise" />
@@ -49,8 +51,6 @@
       <item value="Meters" />
       <item value="expose Proxy" />
       <item value="Garbage Collector Metric Set" />
-      <item value="File Descriptor Ratio Gauge" />
-      <item value="Metric" />
     </histories>
   </component>
 </application>
