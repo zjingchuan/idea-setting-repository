@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="get Signature" />
       <item value="advise" />
       <item value="A gauge for the ratio of used to total file descriptors" />
       <item value="gauges" />
@@ -50,7 +51,6 @@
       <item value="File Descriptor Ratio Gauge" />
       <item value="Metric" />
       <item value="Metric Set" />
-      <item value="honor" />
     </histories>
   </component>
 </application>
