@@ -1,6 +1,8 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="biz" />
+      <item value="biz Type" />
       <item value="absolute" />
       <item value="eligible" />
       <item value="软件" />
@@ -49,8 +51,6 @@
       <item value="Rates" />
       <item value="convert Rates To" />
       <item value="Meters" />
-      <item value="expose Proxy" />
-      <item value="Garbage Collector Metric Set" />
     </histories>
   </component>
 </application>
