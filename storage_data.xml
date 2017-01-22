@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="garbage" />
       <item value="biz" />
       <item value="biz Type" />
       <item value="absolute" />
@@ -50,7 +51,6 @@
       <item value="Metrics" />
       <item value="Rates" />
       <item value="convert Rates To" />
-      <item value="Meters" />
     </histories>
   </component>
 </application>
