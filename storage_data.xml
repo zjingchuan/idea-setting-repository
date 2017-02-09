@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="Clearspace Admin Provider" />
       <item value="Forbid" />
       <item value="Prescription" />
       <item value="Prescription Detail Activity" />
@@ -50,7 +51,6 @@
       <item value="Gauges" />
       <item value="Instrumented" />
       <item value="Instrumented Handler" />
-      <item value="precision" />
     </histories>
   </component>
 </application>
