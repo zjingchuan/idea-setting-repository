@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="Gauges" />
       <item value="get Open File Descriptor Count" />
       <item value="Gauge" />
       <item value="Clearspace Admin Provider" />
@@ -50,7 +51,6 @@
       <item value="solr" />
       <item value="STOPSHIP" />
       <item value="Each connector has this server set as it ' s Thread Pool and its Handle" />
-      <item value="Gauges" />
     </histories>
   </component>
 </application>
