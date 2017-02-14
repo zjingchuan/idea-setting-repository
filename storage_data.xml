@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="threshold" />
       <item value="Measure" />
       <item value="Gauges" />
       <item value="get Open File Descriptor Count" />
@@ -50,7 +51,6 @@
       <item value="digest" />
       <item value="Announces" />
       <item value="solr" />
-      <item value="STOPSHIP" />
     </histories>
   </component>
 </application>
