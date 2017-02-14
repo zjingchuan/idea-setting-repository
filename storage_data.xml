@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="certificate" />
       <item value="threshold" />
       <item value="Measure" />
       <item value="Gauges" />
@@ -50,7 +51,6 @@
       <item value="declared" />
       <item value="digest" />
       <item value="Announces" />
-      <item value="solr" />
     </histories>
   </component>
 </application>
