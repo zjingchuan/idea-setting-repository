@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="forbidden" />
       <item value="certificate" />
       <item value="threshold" />
       <item value="Measure" />
@@ -50,7 +51,6 @@
       <item value="but" />
       <item value="declared" />
       <item value="digest" />
-      <item value="Announces" />
     </histories>
   </component>
 </application>
