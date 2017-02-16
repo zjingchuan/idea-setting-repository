@@ -1,7 +1,19 @@
 <application>
   <component name="AppStorage">
     <histories>
-      <item value="enqueue" />
+      <item value="or throw a Packet Rejected Exception to block it from being sent or processed" />
+      <item value="processed" />
+      <item value="prevented" />
+      <item value="Packet Rejected Exception" />
+      <item value="forbidden" />
+      <item value="certificate" />
+      <item value="threshold" />
+      <item value="Measure" />
+      <item value="Gauges" />
+      <item value="get Open File Descriptor Count" />
+      <item value="Gauge" />
+      <item value="Clearspace Admin Provider" />
+      <item value="Forbid" />
       <item value="Prescription" />
       <item value="Prescription Detail Activity" />
       <item value="garbage" />
@@ -39,18 +51,6 @@
       <item value="violated" />
       <item value="not" />
       <item value="parent" />
-      <item value="comma" />
-      <item value="but" />
-      <item value="declared" />
-      <item value="digest" />
-      <item value="Announces" />
-      <item value="solr" />
-      <item value="STOPSHIP" />
-      <item value="Each connector has this server set as it ' s Thread Pool and its Handle" />
-      <item value="Gauges" />
-      <item value="Instrumented" />
-      <item value="Instrumented Handler" />
-      <item value="precision" />
     </histories>
   </component>
 </application>
