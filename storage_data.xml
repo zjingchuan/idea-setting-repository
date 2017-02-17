@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="awesome" />
       <item value="or throw a Packet Rejected Exception to block it from being sent or processed" />
       <item value="processed" />
       <item value="prevented" />
@@ -50,7 +51,6 @@
       <item value="violate" />
       <item value="violated" />
       <item value="not" />
-      <item value="parent" />
     </histories>
   </component>
 </application>
