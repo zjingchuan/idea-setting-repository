@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="Gauge" />
       <item value="ALPHA" />
       <item value="M 1 ALPHA" />
       <item value="Mark the passage of time and decay the current rate accordingly" />
@@ -21,7 +22,6 @@
       <item value="Measure" />
       <item value="Gauges" />
       <item value="get Open File Descriptor Count" />
-      <item value="Gauge" />
       <item value="Clearspace Admin Provider" />
       <item value="Forbid" />
       <item value="Prescription" />
