@@ -1,6 +1,9 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="ALPHA" />
+      <item value="M 1 ALPHA" />
+      <item value="Mark the passage of time and decay the current rate accordingly" />
       <item value="Meter" />
       <item value="exponentially - weighted" />
       <item value="throughputs" />
@@ -48,9 +51,6 @@
       <item value="活动" />
       <item value="隼" />
       <item value="warn" />
-      <item value="MILLIS PER DAY" />
-      <item value="Arithmetic Exception" />
-      <item value="set Userchn" />
     </histories>
   </component>
 </application>
