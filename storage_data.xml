@@ -1,6 +1,11 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="exponentially - weighted" />
+      <item value="throughputs" />
+      <item value="average" />
+      <item value="exponentially - weighted moving average throughputs" />
+      <item value="units" />
       <item value="awesome" />
       <item value="or throw a Packet Rejected Exception to block it from being sent or processed" />
       <item value="processed" />
@@ -46,11 +51,6 @@
       <item value="Arithmetic Exception" />
       <item value="set Userchn" />
       <item value="set Carrier" />
-      <item value="integrity" />
-      <item value="viola" />
-      <item value="violate" />
-      <item value="violated" />
-      <item value="not" />
     </histories>
   </component>
 </application>
