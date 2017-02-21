@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="Meter" />
       <item value="exponentially - weighted" />
       <item value="throughputs" />
       <item value="average" />
@@ -50,7 +51,6 @@
       <item value="MILLIS PER DAY" />
       <item value="Arithmetic Exception" />
       <item value="set Userchn" />
-      <item value="set Carrier" />
     </histories>
   </component>
 </application>
