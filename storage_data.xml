@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="stack" />
       <item value="moudle" />
       <item value="module" />
       <item value="Gauge" />
@@ -50,7 +51,6 @@
       <item value="acquired" />
       <item value="affected" />
       <item value="migrate Property" />
-      <item value="活动" />
     </histories>
   </component>
 </application>
