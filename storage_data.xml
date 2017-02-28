@@ -1,6 +1,9 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="Measurement" />
+      <item value="series" />
+      <item value="serise" />
       <item value="alloc" />
       <item value="stack" />
       <item value="moudle" />
@@ -48,9 +51,6 @@
       <item value="Histogram" />
       <item value="histogram" />
       <item value="随机" />
-      <item value="monitor" />
-      <item value="acquired" />
-      <item value="affected" />
     </histories>
   </component>
 </application>
