@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="echo" />
       <item value="Measurement" />
       <item value="series" />
       <item value="serise" />
@@ -50,7 +51,6 @@
       <item value="Ratio Gauge" />
       <item value="Histogram" />
       <item value="histogram" />
-      <item value="随机" />
     </histories>
   </component>
 </application>
