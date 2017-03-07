@@ -1,6 +1,8 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="流水号" />
+      <item value="流水" />
       <item value="TRADE" />
       <item value="deal" />
       <item value="deal Vip Business" />
@@ -49,8 +51,6 @@
       <item value="get Signature" />
       <item value="advise" />
       <item value="A gauge for the ratio of used to total file descriptors" />
-      <item value="gauges" />
-      <item value="drilldown" />
     </histories>
   </component>
 </application>
