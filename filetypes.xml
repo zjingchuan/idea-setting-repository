@@ -1,25 +1,25 @@
 <application>
   <component name="FileTypeManager" version="17">
     <extensionMap>
+      <mapping ext="exe" type="Native" />
       <mapping ext="vsdx" type="Native" />
       <mapping ext="mpp" type="Native" />
-      <mapping ext="exe" type="Native" />
-      <mapping pattern="插件打包说明" type="PLAIN_TEXT" />
-      <mapping pattern="Container" type="PLAIN_TEXT" />
-      <mapping pattern="到 sublime_text 的链接" type="PLAIN_TEXT" />
+      <mapping pattern="scp" type="PLAIN_TEXT" />
+      <mapping pattern=".babelr" type="PLAIN_TEXT" />
       <mapping pattern="ls" type="PLAIN_TEXT" />
       <mapping pattern="只能应答设置查询" type="PLAIN_TEXT" />
-      <mapping pattern="button_divider" type="PLAIN_TEXT" />
-      <mapping pattern="scp" type="PLAIN_TEXT" />
+      <mapping pattern="到 sublime_text 的链接" type="PLAIN_TEXT" />
+      <mapping pattern="Container" type="PLAIN_TEXT" />
       <mapping pattern="themes" type="PLAIN_TEXT" />
-      <mapping pattern=".babelr" type="PLAIN_TEXT" />
+      <mapping pattern="插件打包说明" type="PLAIN_TEXT" />
+      <mapping pattern="button_divider" type="PLAIN_TEXT" />
+      <mapping ext="container" type="PLAIN_TEXT" />
       <mapping ext="jet" type="PLAIN_TEXT" />
+      <mapping ext="containe" type="PLAIN_TEXT" />
       <mapping ext="keystore" type="PLAIN_TEXT" />
       <mapping ext="so" type="PLAIN_TEXT" />
-      <mapping ext="appcache" type="PLAIN_TEXT" />
       <mapping ext="progerties" type="PLAIN_TEXT" />
-      <mapping ext="containe" type="PLAIN_TEXT" />
-      <mapping ext="container" type="PLAIN_TEXT" />
+      <mapping ext="appcache" type="PLAIN_TEXT" />
       <mapping ext="textclipping" type="PLAIN_TEXT" />
       <mapping pattern="*manifest" type="ProGuard File" />
       <removed_mapping ext="so" type="UNKNOWN" />
