@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="TRADE" />
       <item value="deal" />
       <item value="deal Vip Business" />
       <item value="Skeleton" />
@@ -50,7 +51,6 @@
       <item value="A gauge for the ratio of used to total file descriptors" />
       <item value="gauges" />
       <item value="drilldown" />
-      <item value="mean" />
     </histories>
   </component>
 </application>
