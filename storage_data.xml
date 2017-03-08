@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="family" />
       <item value="使用人数" />
       <item value="流水号" />
       <item value="流水" />
@@ -50,7 +51,6 @@
       <item value="eligible" />
       <item value="软件" />
       <item value="get Signature" />
-      <item value="advise" />
     </histories>
   </component>
 </application>
