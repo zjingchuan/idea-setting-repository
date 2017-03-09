@@ -1,6 +1,9 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="buffer Size must be a power of 2" />
+      <item value="Assuming an average log entry to take 1 k , this would result in the application using about 10 MB additional memory if the queue is full" />
+      <item value="Assuming" />
       <item value="For every dropped Warn Frequency consecutive dropped events , log a warning ." />
       <item value="DEFAULT RING BUFFER SIZE" />
       <item value="DEFAULT DROPPED WARN FREQUENCY" />
@@ -48,9 +51,6 @@
       <item value="Gauges" />
       <item value="get Open File Descriptor Count" />
       <item value="Clearspace Admin Provider" />
-      <item value="Forbid" />
-      <item value="Prescription" />
-      <item value="Prescription Detail Activity" />
     </histories>
   </component>
 </application>
