@@ -1,6 +1,21 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="family" />
+      <item value="使用人数" />
+      <item value="流水号" />
+      <item value="流水" />
+      <item value="TRADE" />
+      <item value="deal" />
+      <item value="deal Vip Business" />
+      <item value="Skeleton" />
+      <item value="Appender Skeleton" />
+      <item value="阿姨到了" />
+      <item value="echo" />
+      <item value="Measurement" />
+      <item value="series" />
+      <item value="serise" />
+      <item value="alloc" />
       <item value="stack" />
       <item value="moudle" />
       <item value="module" />
@@ -36,21 +51,6 @@
       <item value="eligible" />
       <item value="软件" />
       <item value="get Signature" />
-      <item value="advise" />
-      <item value="A gauge for the ratio of used to total file descriptors" />
-      <item value="gauges" />
-      <item value="drilldown" />
-      <item value="mean" />
-      <item value="legend" />
-      <item value="Custom Gauges" />
-      <item value="Ratio Gauge" />
-      <item value="Histogram" />
-      <item value="histogram" />
-      <item value="随机" />
-      <item value="monitor" />
-      <item value="acquired" />
-      <item value="affected" />
-      <item value="migrate Property" />
     </histories>
   </component>
 </application>
