@@ -1,6 +1,10 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="For every dropped Warn Frequency consecutive dropped events , log a warning ." />
+      <item value="DEFAULT RING BUFFER SIZE" />
+      <item value="DEFAULT DROPPED WARN FREQUENCY" />
+      <item value="DROPPED" />
       <item value="established" />
       <item value="Threshold" />
       <item value="DENY" />
@@ -47,10 +51,6 @@
       <item value="Forbid" />
       <item value="Prescription" />
       <item value="Prescription Detail Activity" />
-      <item value="garbage" />
-      <item value="biz" />
-      <item value="biz Type" />
-      <item value="absolute" />
     </histories>
   </component>
 </application>
