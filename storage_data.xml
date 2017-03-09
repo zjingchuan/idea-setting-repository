@@ -1,6 +1,8 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="established" />
+      <item value="Threshold" />
       <item value="DENY" />
       <item value="family" />
       <item value="使用人数" />
@@ -49,8 +51,6 @@
       <item value="biz" />
       <item value="biz Type" />
       <item value="absolute" />
-      <item value="eligible" />
-      <item value="软件" />
     </histories>
   </component>
 </application>
