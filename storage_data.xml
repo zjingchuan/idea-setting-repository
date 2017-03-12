@@ -1,6 +1,8 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="cure" />
+      <item value="诊金设置" />
       <item value="established" />
       <item value="Threshold" />
       <item value="DENY" />
@@ -49,8 +51,6 @@
       <item value="Prescription Detail Activity" />
       <item value="garbage" />
       <item value="biz" />
-      <item value="biz Type" />
-      <item value="absolute" />
     </histories>
   </component>
 </application>
