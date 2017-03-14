@@ -1,12 +1,11 @@
 <scheme name="windows" version="142" parent_scheme="Darcula">
-  <option name="LINE_SPACING" value="1.0" />
   <font>
     <option name="EDITOR_FONT_NAME" value="Source Code Pro" />
     <option name="EDITOR_FONT_SIZE" value="16" />
   </font>
   <font>
     <option name="EDITOR_FONT_NAME" value="Courier New" />
-    <option name="EDITOR_FONT_SIZE" value="25" />
+    <option name="EDITOR_FONT_SIZE" value="16" />
   </font>
   <option name="CONSOLE_FONT_NAME" value="Source Code Pro" />
   <option name="EDITOR_QUICK_DOC_FONT_SIZE" value="MEDIUM" />
