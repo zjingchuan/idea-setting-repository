@@ -1,6 +1,9 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="splash" />
+      <item value="闪屏" />
+      <item value="过度" />
       <item value="density" />
       <item value="invoke methods only conditionally" />
       <item value="invoke methods only confitionally" />
@@ -48,9 +51,6 @@
       <item value="throughputs" />
       <item value="average" />
       <item value="exponentially - weighted moving average throughputs" />
-      <item value="units" />
-      <item value="awesome" />
-      <item value="or throw a Packet Rejected Exception to block it from being sent or processed" />
     </histories>
   </component>
 </application>
