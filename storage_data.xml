@@ -1,6 +1,8 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="Mar" />
+      <item value="wed" />
       <item value="格式化" />
       <item value="formate" />
       <item value="审核" />
@@ -49,8 +51,6 @@
       <item value="Meter" />
       <item value="exponentially - weighted" />
       <item value="throughputs" />
-      <item value="average" />
-      <item value="exponentially - weighted moving average throughputs" />
     </histories>
   </component>
 </application>
