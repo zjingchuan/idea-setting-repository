@@ -1,6 +1,8 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="avg" />
+      <item value="平均" />
       <item value="自动回复" />
       <item value="reply" />
       <item value="同意" />
@@ -49,8 +51,6 @@
       <item value="stack" />
       <item value="moudle" />
       <item value="module" />
-      <item value="Gauge" />
-      <item value="ALPHA" />
     </histories>
   </component>
 </application>
