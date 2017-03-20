@@ -1,6 +1,9 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="trade" />
+      <item value="trad" />
+      <item value="outtrade" />
       <item value="scoped" />
       <item value="多媒体" />
       <item value="avg" />
@@ -48,9 +51,6 @@
       <item value="echo" />
       <item value="Measurement" />
       <item value="series" />
-      <item value="serise" />
-      <item value="alloc" />
-      <item value="stack" />
     </histories>
   </component>
 </application>
