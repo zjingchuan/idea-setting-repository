@@ -1,6 +1,8 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="pathology" />
+      <item value="病理" />
       <item value="Modal" />
       <item value="trade" />
       <item value="trad" />
@@ -49,8 +51,6 @@
       <item value="Skeleton" />
       <item value="Appender Skeleton" />
       <item value="阿姨到了" />
-      <item value="echo" />
-      <item value="Measurement" />
     </histories>
   </component>
 </application>
