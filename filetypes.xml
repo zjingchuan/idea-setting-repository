@@ -10,6 +10,7 @@
       <mapping pattern="ls" type="PLAIN_TEXT" />
       <mapping pattern="只能应答设置查询" type="PLAIN_TEXT" />
       <mapping pattern="1" type="PLAIN_TEXT" />
+      <mapping pattern=".gitkeep" type="PLAIN_TEXT" />
       <mapping pattern="button_divider" type="PLAIN_TEXT" />
       <mapping pattern="scp" type="PLAIN_TEXT" />
       <mapping pattern="themes" type="PLAIN_TEXT" />
