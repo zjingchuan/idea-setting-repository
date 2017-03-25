@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="necessary to consistently work with multiple chunks via Commons Chunk Plugin" />
       <item value="pathology" />
       <item value="病理" />
       <item value="Modal" />
@@ -50,7 +51,6 @@
       <item value="deal Vip Business" />
       <item value="Skeleton" />
       <item value="Appender Skeleton" />
-      <item value="阿姨到了" />
     </histories>
   </component>
 </application>
