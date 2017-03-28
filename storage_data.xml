@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="anchor" />
       <item value="消极" />
       <item value="取消" />
       <item value="set Reject" />
@@ -50,7 +51,6 @@
       <item value="流水号" />
       <item value="流水" />
       <item value="TRADE" />
-      <item value="deal" />
     </histories>
   </component>
 </application>
