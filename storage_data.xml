@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="set Reject" />
       <item value="necessary to consistently work with multiple chunks via Commons Chunk Plugin" />
       <item value="pathology" />
       <item value="病理" />
@@ -50,7 +51,6 @@
       <item value="deal" />
       <item value="deal Vip Business" />
       <item value="Skeleton" />
-      <item value="Appender Skeleton" />
     </histories>
   </component>
 </application>
