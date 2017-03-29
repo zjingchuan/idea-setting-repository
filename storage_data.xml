@@ -1,6 +1,9 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="stripe" />
+      <item value="序列号" />
+      <item value="序列" />
       <item value="anchor" />
       <item value="消极" />
       <item value="取消" />
@@ -48,9 +51,6 @@
       <item value="DENY" />
       <item value="family" />
       <item value="使用人数" />
-      <item value="流水号" />
-      <item value="流水" />
-      <item value="TRADE" />
     </histories>
   </component>
 </application>
