@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="Criteria" />
       <item value="alt" />
       <item value="资料" />
       <item value="stripe" />
@@ -50,7 +51,6 @@
       <item value="DROPPED" />
       <item value="established" />
       <item value="Threshold" />
-      <item value="DENY" />
     </histories>
   </component>
 </application>
