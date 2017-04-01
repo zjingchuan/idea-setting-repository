@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="forward To Destination" />
       <item value="Bad Credentials Exception" />
       <item value="get Logger" />
       <item value="retrieve User" />
@@ -50,7 +51,6 @@
       <item value="部署成功" />
       <item value="deployed sucessful" />
       <item value="deployed sucess" />
-      <item value="deployed" />
     </histories>
   </component>
 </application>
