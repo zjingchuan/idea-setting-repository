@@ -1,6 +1,10 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="exposed" />
+      <item value="Set whether the proxy should be exposed by the AOP framework as a Thread Local for retrieval via the Aop Context class . This is useful if an advised object needs to call another advised method on itself . ( If it uses &lt; code &gt; this &lt;/ code &gt;, the invocation will not be advised ). &lt; p &gt; Default is &quot; false &quot;, in order to avoid unnecessary extra interception . This means that no guarantees are provided that Aop Context access will work consistently within any method of the advised object ." />
+      <item value="proxy Target Class" />
+      <item value="expose Proxy" />
       <item value="forward To Destination" />
       <item value="Bad Credentials Exception" />
       <item value="get Logger" />
@@ -47,10 +51,6 @@
       <item value="invoke methods only confitionally" />
       <item value="invoke methods only" />
       <item value="condition" />
-      <item value="conditionlly" />
-      <item value="部署成功" />
-      <item value="deployed sucessful" />
-      <item value="deployed sucess" />
     </histories>
   </component>
 </application>
