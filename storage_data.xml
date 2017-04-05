@@ -1,6 +1,28 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="directly" />
+      <item value="remaining" />
+      <item value="exposed" />
+      <item value="Set whether the proxy should be exposed by the AOP framework as a Thread Local for retrieval via the Aop Context class . This is useful if an advised object needs to call another advised method on itself . ( If it uses &lt; code &gt; this &lt;/ code &gt;, the invocation will not be advised ). &lt; p &gt; Default is &quot; false &quot;, in order to avoid unnecessary extra interception . This means that no guarantees are provided that Aop Context access will work consistently within any method of the advised object ." />
+      <item value="proxy Target Class" />
+      <item value="expose Proxy" />
+      <item value="forward To Destination" />
+      <item value="Bad Credentials Exception" />
+      <item value="get Logger" />
+      <item value="retrieve User" />
+      <item value="attempt Authentication" />
+      <item value="specified" />
+      <item value="additional Authentication Checks" />
+      <item value="A base {@ link Authentication Provider } that allows subclasses to override and work with {@ link org . springframework . security . core . userdetails . User Details } objects . The class is designed to respond to {@ link Username Password Authentication Token } authentication requests . &lt; p &gt; Upon successful validation , a &lt; code &gt; Username Password Authentication Token &lt;/ code &gt; will be created and returned to the caller . The token will include as its principal either a &lt; code &gt; String &lt;/ code &gt; representation of the username , or the {@ link User Details } that was returned from the authentication repository . Using &lt; code &gt; String &lt;/ code &gt; is appropriate if a container adapter is being used , as it expects &lt; code &gt; String &lt;/ code &gt; representations of the username . Using &lt; code &gt; User Details &lt;/ code &gt; is appropriate if you require access to additional properties of the authenticated user , such as email addresses , human - friendly names etc . As container adapters are not recommended to be used , and &lt; code &gt; User Details &lt;/ code &gt; implementations provide additional flexibility , by default a &lt; code &gt; User Details &lt;/ code &gt; is returned . To override this default , set the {@ link # set Force Principal As String } to &lt; code &gt; true &lt;/ code &gt;. &lt; p &gt; Caching is handled by storing the &lt; code &gt; User Details &lt;/ code &gt; object being placed in the {@ link User Cache }. This ensures that subsequent requests with the same username can be validated without needing to query the {@ link User Details Service }. It should be noted that if a user appears to present an incorrect password , the {@ link User Details Service } will be queried to confirm the most up - to - date password was used for comparison . Caching is only likely to be required for stateless applications . In a normal web application , for example , the &lt; tt &gt; Security Context &lt;/ tt &gt; is stored in the user ' s session and the user isn ' t reauthenticated on each request . The default cache implementation is therefore {@ link Null User Cache }." />
+      <item value="permit All" />
+      <item value="ant Matchers" />
+      <item value="Criteria" />
+      <item value="alt" />
+      <item value="资料" />
+      <item value="stripe" />
+      <item value="序列号" />
+      <item value="序列" />
       <item value="anchor" />
       <item value="消极" />
       <item value="取消" />
@@ -29,28 +51,6 @@
       <item value="present" />
       <item value="invoke methods only conditionally" />
       <item value="invoke methods only confitionally" />
-      <item value="invoke methods only" />
-      <item value="condition" />
-      <item value="conditionlly" />
-      <item value="部署成功" />
-      <item value="deployed sucessful" />
-      <item value="deployed sucess" />
-      <item value="deployed" />
-      <item value="buffer Size must be a power of 2" />
-      <item value="Assuming an average log entry to take 1 k , this would result in the application using about 10 MB additional memory if the queue is full" />
-      <item value="Assuming" />
-      <item value="For every dropped Warn Frequency consecutive dropped events , log a warning ." />
-      <item value="DEFAULT RING BUFFER SIZE" />
-      <item value="DEFAULT DROPPED WARN FREQUENCY" />
-      <item value="DROPPED" />
-      <item value="established" />
-      <item value="Threshold" />
-      <item value="DENY" />
-      <item value="family" />
-      <item value="使用人数" />
-      <item value="流水号" />
-      <item value="流水" />
-      <item value="TRADE" />
     </histories>
   </component>
 </application>
