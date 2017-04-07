@@ -1,6 +1,10 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="signUp" />
+      <item value="命中" />
+      <item value="bigo" />
+      <item value="bingo" />
       <item value="directly" />
       <item value="remaining" />
       <item value="exposed" />
@@ -47,10 +51,6 @@
       <item value="wed" />
       <item value="格式化" />
       <item value="formate" />
-      <item value="审核" />
-      <item value="present" />
-      <item value="invoke methods only conditionally" />
-      <item value="invoke methods only confitionally" />
     </histories>
   </component>
 </application>
