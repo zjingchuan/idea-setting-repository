@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="过期" />
       <item value="verify" />
       <item value="合法" />
       <item value="signUp" />
@@ -50,7 +51,6 @@
       <item value="入口" />
       <item value="人口" />
       <item value="Mar" />
-      <item value="wed" />
     </histories>
   </component>
 </application>
