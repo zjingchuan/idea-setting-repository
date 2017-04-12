@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="blur" />
       <item value="Criterion" />
       <item value="Criteria" />
       <item value="suppress Date" />
@@ -50,7 +51,6 @@
       <item value="avg" />
       <item value="平均" />
       <item value="自动回复" />
-      <item value="reply" />
     </histories>
   </component>
 </application>
