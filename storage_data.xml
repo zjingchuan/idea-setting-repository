@@ -1,6 +1,8 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="suppress Date" />
+      <item value="identity" />
       <item value="slot" />
       <item value="过期" />
       <item value="verify" />
@@ -49,8 +51,6 @@
       <item value="自动回复" />
       <item value="reply" />
       <item value="同意" />
-      <item value="入口" />
-      <item value="人口" />
     </histories>
   </component>
 </application>
