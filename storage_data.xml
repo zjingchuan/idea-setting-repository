@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="update By Example Selective" />
       <item value="详细" />
       <item value="Deprecated" />
       <item value="Criteria" />
@@ -50,7 +51,6 @@
       <item value="outtrade" />
       <item value="scoped" />
       <item value="多媒体" />
-      <item value="avg" />
     </histories>
   </component>
 </application>
