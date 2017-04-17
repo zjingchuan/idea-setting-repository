@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="金额" />
       <item value="Big Decimal" />
       <item value="common" />
       <item value="validate And Parse Type" />
@@ -50,7 +51,6 @@
       <item value="necessary to consistently work with multiple chunks via Commons Chunk Plugin" />
       <item value="pathology" />
       <item value="病理" />
-      <item value="Modal" />
     </histories>
   </component>
 </application>
