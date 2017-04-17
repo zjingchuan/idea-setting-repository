@@ -1,6 +1,8 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="Big Decimal" />
+      <item value="common" />
       <item value="validate And Parse Type" />
       <item value="校验" />
       <item value="Selective" />
@@ -49,8 +51,6 @@
       <item value="pathology" />
       <item value="病理" />
       <item value="Modal" />
-      <item value="trade" />
-      <item value="trad" />
     </histories>
   </component>
 </application>
