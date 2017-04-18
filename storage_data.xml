@@ -1,6 +1,8 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="Credentials" />
+      <item value="Bad Credentials Exception" />
       <item value="authenticate" />
       <item value="additional Authentication Checks" />
       <item value="Granted Authority" />
@@ -34,7 +36,6 @@
       <item value="proxy Target Class" />
       <item value="expose Proxy" />
       <item value="forward To Destination" />
-      <item value="Bad Credentials Exception" />
       <item value="get Logger" />
       <item value="attempt Authentication" />
       <item value="specified" />
@@ -50,7 +51,6 @@
       <item value="消极" />
       <item value="取消" />
       <item value="set Reject" />
-      <item value="necessary to consistently work with multiple chunks via Commons Chunk Plugin" />
     </histories>
   </component>
 </application>
