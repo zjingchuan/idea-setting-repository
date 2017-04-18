@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="retrieve User" />
       <item value="金额" />
       <item value="Big Decimal" />
       <item value="common" />
@@ -32,7 +33,6 @@
       <item value="forward To Destination" />
       <item value="Bad Credentials Exception" />
       <item value="get Logger" />
-      <item value="retrieve User" />
       <item value="attempt Authentication" />
       <item value="specified" />
       <item value="additional Authentication Checks" />
