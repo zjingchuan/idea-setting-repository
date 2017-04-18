@@ -1,12 +1,12 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="retrieve User" />
       <item value="Credentials" />
       <item value="Bad Credentials Exception" />
       <item value="authenticate" />
       <item value="additional Authentication Checks" />
       <item value="Granted Authority" />
-      <item value="retrieve User" />
       <item value="金额" />
       <item value="Big Decimal" />
       <item value="common" />
