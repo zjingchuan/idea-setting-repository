@@ -1,6 +1,9 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="authorizations" />
+      <item value="consumes" />
+      <item value="produces" />
       <item value="retrieve User" />
       <item value="Credentials" />
       <item value="Bad Credentials Exception" />
@@ -48,9 +51,6 @@
       <item value="序列号" />
       <item value="序列" />
       <item value="anchor" />
-      <item value="消极" />
-      <item value="取消" />
-      <item value="set Reject" />
     </histories>
   </component>
 </application>
