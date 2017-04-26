@@ -24,6 +24,7 @@
       <mapping ext="container" type="PLAIN_TEXT" />
       <mapping ext="textclipping" type="PLAIN_TEXT" />
       <mapping pattern="*manifest" type="ProGuard File" />
+      <mapping pattern="Mp3Player" type="TypeScript" />
       <removed_mapping ext="so" type="UNKNOWN" />
     </extensionMap>
   </component>

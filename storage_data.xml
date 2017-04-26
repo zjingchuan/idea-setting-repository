@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="distribute" />
       <item value="客服" />
       <item value="Disabling" />
       <item value="authorizations" />
@@ -50,7 +51,6 @@
       <item value="alt" />
       <item value="资料" />
       <item value="stripe" />
-      <item value="序列号" />
     </histories>
   </component>
 </application>
