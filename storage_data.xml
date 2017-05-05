@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="Concurrent Map Cache" />
       <item value="distribute" />
       <item value="客服" />
       <item value="Disabling" />
@@ -50,7 +51,6 @@
       <item value="ant Matchers" />
       <item value="alt" />
       <item value="资料" />
-      <item value="stripe" />
     </histories>
   </component>
 </application>
