@@ -1,6 +1,8 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="qualifying" />
+      <item value="remaining Capacity" />
       <item value="扫描" />
       <item value="scaner" />
       <item value="前缀" />
@@ -49,8 +51,6 @@
       <item value="expose Proxy" />
       <item value="forward To Destination" />
       <item value="get Logger" />
-      <item value="attempt Authentication" />
-      <item value="specified" />
     </histories>
   </component>
 </application>
