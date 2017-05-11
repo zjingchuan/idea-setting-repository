@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="prototype" />
       <item value="qualifying" />
       <item value="remaining Capacity" />
       <item value="扫描" />
@@ -50,7 +51,6 @@
       <item value="proxy Target Class" />
       <item value="expose Proxy" />
       <item value="forward To Destination" />
-      <item value="get Logger" />
     </histories>
   </component>
 </application>
