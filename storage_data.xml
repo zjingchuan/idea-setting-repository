@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="push" />
       <item value="模型" />
       <item value="mode" />
       <item value="Invocation" />
@@ -50,7 +51,6 @@
       <item value="合法" />
       <item value="signUp" />
       <item value="命中" />
-      <item value="bigo" />
     </histories>
   </component>
 </application>
