@@ -1,6 +1,9 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="range" />
+      <item value="allowable Values" />
+      <item value="brief" />
       <item value="push" />
       <item value="模型" />
       <item value="mode" />
@@ -48,9 +51,6 @@
       <item value="slot" />
       <item value="过期" />
       <item value="verify" />
-      <item value="合法" />
-      <item value="signUp" />
-      <item value="命中" />
     </histories>
   </component>
 </application>
