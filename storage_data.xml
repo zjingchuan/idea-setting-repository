@@ -1,6 +1,8 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="模型" />
+      <item value="mode" />
       <item value="Invocation" />
       <item value="多个" />
       <item value="routed" />
@@ -49,8 +51,6 @@
       <item value="signUp" />
       <item value="命中" />
       <item value="bigo" />
-      <item value="bingo" />
-      <item value="directly" />
     </histories>
   </component>
 </application>
