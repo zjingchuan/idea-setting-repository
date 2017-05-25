@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="DECIMAL" />
       <item value="附件" />
       <item value="range" />
       <item value="allowable Values" />
@@ -50,7 +51,6 @@
       <item value="suppress Date" />
       <item value="identity" />
       <item value="slot" />
-      <item value="过期" />
     </histories>
   </component>
 </application>
