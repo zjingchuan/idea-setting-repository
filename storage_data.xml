@@ -1,6 +1,8 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="migrate" />
+      <item value="slot" />
       <item value="DECIMAL" />
       <item value="附件" />
       <item value="range" />
@@ -49,8 +51,6 @@
       <item value="blur" />
       <item value="Criterion" />
       <item value="suppress Date" />
-      <item value="identity" />
-      <item value="slot" />
     </histories>
   </component>
 </application>
