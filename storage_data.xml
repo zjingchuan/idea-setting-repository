@@ -1,6 +1,8 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="ratio" />
+      <item value="比率" />
       <item value="migrate" />
       <item value="slot" />
       <item value="DECIMAL" />
@@ -49,8 +51,6 @@
       <item value="Deprecated" />
       <item value="Criteria" />
       <item value="blur" />
-      <item value="Criterion" />
-      <item value="suppress Date" />
     </histories>
   </component>
 </application>
