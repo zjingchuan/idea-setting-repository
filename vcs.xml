@@ -94,8 +94,12 @@
           <option name="url" value="https://zjingchuan@120.197.60.198:8878/r/vvm/transgw.git" />
           <option name="userName" value="" />
         </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="https://zjingchuan@120.197.60.198:8878/r/VVM3/services/voicemgr.git" />
+          <option name="userName" value="" />
+        </UrlAndUserName>
       </list>
     </option>
-    <option name="cloneParentDir" value="D:\WorkSpace\1.2" />
+    <option name="cloneParentDir" value="D:\WorkSpace\3.0" />
   </component>
 </application>
