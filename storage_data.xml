@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="原始" />
       <item value="immediate Flush" />
       <item value="migrate" />
       <item value="ratio" />
@@ -50,7 +51,6 @@
       <item value="update By Example Selective" />
       <item value="详细" />
       <item value="Deprecated" />
-      <item value="Criteria" />
     </histories>
   </component>
 </application>
