@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="holdability" />
       <item value="生成" />
       <item value="原始" />
       <item value="immediate Flush" />
@@ -50,7 +51,6 @@
       <item value="校验" />
       <item value="Selective" />
       <item value="update By Example Selective" />
-      <item value="详细" />
     </histories>
   </component>
 </application>
