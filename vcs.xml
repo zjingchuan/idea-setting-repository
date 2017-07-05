@@ -102,6 +102,10 @@
           <option name="url" value="https://laichenghui@120.197.60.198:8878/r/~laichenghui/authserver.git" />
           <option name="userName" value="" />
         </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="https://zjingchuan@120.197.60.198:8878/r/vvm/fastserver.git" />
+          <option name="userName" value="" />
+        </UrlAndUserName>
       </list>
     </option>
     <option name="cloneParentDir" value="D:\WorkSpace\1.2" />
