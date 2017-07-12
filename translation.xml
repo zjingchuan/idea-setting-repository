@@ -1,7 +1,8 @@
 <application>
   <component name="TranslationSettings">
-    <option name="apiKeyName" value="mytestuser" />
-    <option name="apiKeyValue" value="749586167" />
-    <option name="useDefaultKey" value="false" />
+    <option name="appId" value="47a3627f36da29ba" />
+    <option name="langFrom" value="AUTO" />
+    <option name="langTo" value="AUTO" />
+    <option name="privateKeyConfigured" value="true" />
   </component>
 </application>

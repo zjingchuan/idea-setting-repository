@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="additional Field" />
       <item value="decremented" />
       <item value="holdability" />
       <item value="生成" />
@@ -50,7 +51,6 @@
       <item value="common" />
       <item value="validate And Parse Type" />
       <item value="校验" />
-      <item value="Selective" />
     </histories>
   </component>
 </application>
