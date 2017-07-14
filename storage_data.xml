@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="put If Absent" />
       <item value="chain" />
       <item value="additional Field" />
       <item value="decremented" />
@@ -50,7 +51,6 @@
       <item value="金额" />
       <item value="Big Decimal" />
       <item value="common" />
-      <item value="validate And Parse Type" />
     </histories>
   </component>
 </application>
