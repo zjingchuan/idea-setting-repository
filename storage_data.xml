@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="expression" />
       <item value="put If Absent" />
       <item value="chain" />
       <item value="additional Field" />
@@ -50,7 +51,6 @@
       <item value="Granted Authority" />
       <item value="金额" />
       <item value="Big Decimal" />
-      <item value="common" />
     </histories>
   </component>
 </application>
