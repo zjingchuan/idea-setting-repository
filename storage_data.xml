@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="consume Message" />
       <item value="expression" />
       <item value="put If Absent" />
       <item value="chain" />
@@ -50,7 +51,6 @@
       <item value="additional Authentication Checks" />
       <item value="Granted Authority" />
       <item value="金额" />
-      <item value="Big Decimal" />
     </histories>
   </component>
 </application>
