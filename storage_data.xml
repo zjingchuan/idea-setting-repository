@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="born Host" />
       <item value="consume Message" />
       <item value="expression" />
       <item value="put If Absent" />
@@ -50,7 +51,6 @@
       <item value="authenticate" />
       <item value="additional Authentication Checks" />
       <item value="Granted Authority" />
-      <item value="金额" />
     </histories>
   </component>
 </application>
