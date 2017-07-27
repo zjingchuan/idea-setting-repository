@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="Eval Matches Bean" />
       <item value="born Host" />
       <item value="consume Message" />
       <item value="expression" />
@@ -50,7 +51,6 @@
       <item value="Bad Credentials Exception" />
       <item value="authenticate" />
       <item value="additional Authentication Checks" />
-      <item value="Granted Authority" />
     </histories>
   </component>
 </application>
