@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="qualifies" />
       <item value="Resourceless Transaction Manager" />
       <item value="get Product Name" />
       <item value="incompatible" />
@@ -50,7 +51,6 @@
       <item value="consumes" />
       <item value="produces" />
       <item value="retrieve User" />
-      <item value="Credentials" />
     </histories>
   </component>
 </application>
