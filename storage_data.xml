@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="创新" />
       <item value="quartz" />
       <item value="cron" />
       <item value="squirrel" />
@@ -50,7 +51,6 @@
       <item value="distribute" />
       <item value="客服" />
       <item value="Disabling" />
-      <item value="authorizations" />
     </histories>
   </component>
 </application>
