@@ -1,6 +1,9 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="quartz" />
+      <item value="cron" />
+      <item value="squirrel" />
       <item value="qualifies" />
       <item value="Resourceless Transaction Manager" />
       <item value="get Product Name" />
@@ -48,9 +51,6 @@
       <item value="客服" />
       <item value="Disabling" />
       <item value="authorizations" />
-      <item value="consumes" />
-      <item value="produces" />
-      <item value="retrieve User" />
     </histories>
   </component>
 </application>
