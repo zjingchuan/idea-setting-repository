@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="生成" />
       <item value="创新" />
       <item value="quartz" />
       <item value="cron" />
@@ -18,7 +19,6 @@
       <item value="additional Field" />
       <item value="decremented" />
       <item value="holdability" />
-      <item value="生成" />
       <item value="原始" />
       <item value="immediate Flush" />
       <item value="migrate" />
