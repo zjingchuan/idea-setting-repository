@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="insert Selective" />
       <item value="生成" />
       <item value="创新" />
       <item value="quartz" />
@@ -50,7 +51,6 @@
       <item value="Concurrent Map Cache" />
       <item value="distribute" />
       <item value="客服" />
-      <item value="Disabling" />
     </histories>
   </component>
 </application>
