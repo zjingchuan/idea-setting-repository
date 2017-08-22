@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="Stat Job" />
       <item value="put If Absent" />
       <item value="raced" />
       <item value="insert Selective" />
@@ -50,7 +51,6 @@
       <item value="未知" />
       <item value="省" />
       <item value="Concurrent Map Cache" />
-      <item value="distribute" />
     </histories>
   </component>
 </application>
