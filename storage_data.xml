@@ -1,6 +1,8 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="audio" />
+      <item value="audios" />
       <item value="Stat Job" />
       <item value="put If Absent" />
       <item value="raced" />
@@ -49,8 +51,6 @@
       <item value="scaner" />
       <item value="前缀" />
       <item value="未知" />
-      <item value="省" />
-      <item value="Concurrent Map Cache" />
     </histories>
   </component>
 </application>
