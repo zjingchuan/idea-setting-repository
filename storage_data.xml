@@ -1,6 +1,9 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="Storage" />
+      <item value="文件存储" />
+      <item value="store" />
       <item value="audio" />
       <item value="audios" />
       <item value="Stat Job" />
@@ -48,9 +51,6 @@
       <item value="qualifying" />
       <item value="remaining Capacity" />
       <item value="扫描" />
-      <item value="scaner" />
-      <item value="前缀" />
-      <item value="未知" />
     </histories>
   </component>
 </application>
