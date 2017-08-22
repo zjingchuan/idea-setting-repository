@@ -1,6 +1,8 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="put If Absent" />
+      <item value="raced" />
       <item value="insert Selective" />
       <item value="生成" />
       <item value="创新" />
@@ -15,7 +17,6 @@
       <item value="born Host" />
       <item value="consume Message" />
       <item value="expression" />
-      <item value="put If Absent" />
       <item value="chain" />
       <item value="additional Field" />
       <item value="decremented" />
@@ -50,7 +51,6 @@
       <item value="省" />
       <item value="Concurrent Map Cache" />
       <item value="distribute" />
-      <item value="客服" />
     </histories>
   </component>
 </application>
