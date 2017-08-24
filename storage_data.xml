@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="处理器" />
       <item value="progress" />
       <item value="progressr" />
       <item value="Entry" />
@@ -50,7 +51,6 @@
       <item value="Invocation" />
       <item value="多个" />
       <item value="routed" />
-      <item value="underlying" />
     </histories>
   </component>
 </application>
