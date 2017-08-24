@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="blank" />
       <item value="后缀" />
       <item value="Storage" />
       <item value="文件存储" />
@@ -50,7 +51,6 @@
       <item value="重新放回" />
       <item value="prototype" />
       <item value="qualifying" />
-      <item value="remaining Capacity" />
     </histories>
   </component>
 </application>
