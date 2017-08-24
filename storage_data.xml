@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="Entry" />
       <item value="A Message Listener Concurrently object is used to receive asynchronously delivered messages concurrently" />
       <item value="blank" />
       <item value="后缀" />
@@ -50,7 +51,6 @@
       <item value="underlying" />
       <item value="忽略" />
       <item value="重新放回" />
-      <item value="prototype" />
     </histories>
   </component>
 </application>
