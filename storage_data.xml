@@ -1,6 +1,8 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="progress" />
+      <item value="progressr" />
       <item value="Entry" />
       <item value="A Message Listener Concurrently object is used to receive asynchronously delivered messages concurrently" />
       <item value="blank" />
@@ -49,8 +51,6 @@
       <item value="多个" />
       <item value="routed" />
       <item value="underlying" />
-      <item value="忽略" />
-      <item value="重新放回" />
     </histories>
   </component>
 </application>
