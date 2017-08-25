@@ -150,8 +150,12 @@
           <option name="url" value="https://zjingchuan@120.197.60.198:8878/r/vvm/web/readfast.git" />
           <option name="userName" value="" />
         </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="https://github.com/maihaoche/rocketmq-spring-boot-starter.git" />
+          <option name="userName" value="" />
+        </UrlAndUserName>
       </list>
     </option>
-    <option name="cloneParentDir" value="D:\WorkSpace\ffkd" />
+    <option name="cloneParentDir" value="D:\WorkSpace\" />
   </component>
 </application>
