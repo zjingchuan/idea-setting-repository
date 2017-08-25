@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="optional" />
       <item value="Auto Configure After" />
       <item value="Conditional On Bean" />
       <item value="处理器" />
@@ -50,7 +51,6 @@
       <item value="push" />
       <item value="模型" />
       <item value="mode" />
-      <item value="Invocation" />
     </histories>
   </component>
 </application>
