@@ -1,6 +1,8 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="不正常" />
+      <item value="正常" />
       <item value="identity" />
       <item value="optional" />
       <item value="Auto Configure After" />
@@ -49,8 +51,6 @@
       <item value="range" />
       <item value="allowable Values" />
       <item value="brief" />
-      <item value="push" />
-      <item value="模型" />
     </histories>
   </component>
 </application>
