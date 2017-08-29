@@ -1,6 +1,8 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="prepare to" />
+      <item value="prepare" />
       <item value="不正常" />
       <item value="正常" />
       <item value="identity" />
@@ -49,8 +51,6 @@
       <item value="DECIMAL" />
       <item value="附件" />
       <item value="range" />
-      <item value="allowable Values" />
-      <item value="brief" />
     </histories>
   </component>
 </application>
