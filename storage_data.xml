@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="filter" />
       <item value="prepare to" />
       <item value="prepare" />
       <item value="不正常" />
@@ -50,7 +51,6 @@
       <item value="slot" />
       <item value="DECIMAL" />
       <item value="附件" />
-      <item value="range" />
     </histories>
   </component>
 </application>
