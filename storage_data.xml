@@ -1,6 +1,8 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="访问" />
+      <item value="assest" />
       <item value="immediate Flush" />
       <item value="filter" />
       <item value="prepare to" />
@@ -49,8 +51,6 @@
       <item value="ratio" />
       <item value="比率" />
       <item value="slot" />
-      <item value="DECIMAL" />
-      <item value="附件" />
     </histories>
   </component>
 </application>
