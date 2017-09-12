@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="concat" />
       <item value="period" />
       <item value="访问" />
       <item value="assest" />
@@ -50,7 +51,6 @@
       <item value="原始" />
       <item value="migrate" />
       <item value="ratio" />
-      <item value="比率" />
     </histories>
   </component>
 </application>
