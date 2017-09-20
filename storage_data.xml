@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="identity Auth" />
       <item value="analysisid" />
       <item value="concat" />
       <item value="period" />
@@ -50,7 +51,6 @@
       <item value="decremented" />
       <item value="holdability" />
       <item value="原始" />
-      <item value="migrate" />
     </histories>
   </component>
 </application>
