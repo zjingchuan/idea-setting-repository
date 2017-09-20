@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="valid" />
       <item value="identity Auth" />
       <item value="analysisid" />
       <item value="concat" />
@@ -50,7 +51,6 @@
       <item value="additional Field" />
       <item value="decremented" />
       <item value="holdability" />
-      <item value="原始" />
     </histories>
   </component>
 </application>
