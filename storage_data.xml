@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="use Actual Column Names" />
       <item value="原始" />
       <item value="valid" />
       <item value="identity Auth" />
@@ -50,7 +51,6 @@
       <item value="expression" />
       <item value="chain" />
       <item value="additional Field" />
-      <item value="decremented" />
     </histories>
   </component>
 </application>
