@@ -1,6 +1,8 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="refund" />
+      <item value="refond" />
       <item value="use Actual Column Names" />
       <item value="原始" />
       <item value="valid" />
@@ -49,8 +51,6 @@
       <item value="born Host" />
       <item value="consume Message" />
       <item value="expression" />
-      <item value="chain" />
-      <item value="additional Field" />
     </histories>
   </component>
 </application>
