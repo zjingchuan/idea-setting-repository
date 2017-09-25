@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="文章" />
       <item value="refund" />
       <item value="refond" />
       <item value="use Actual Column Names" />
@@ -50,7 +51,6 @@
       <item value="Eval Matches Bean" />
       <item value="born Host" />
       <item value="consume Message" />
-      <item value="expression" />
     </histories>
   </component>
 </application>
