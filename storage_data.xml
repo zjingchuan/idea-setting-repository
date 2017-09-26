@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="cron" />
       <item value="and Bi Auditionurl Equal To" />
       <item value="statistics" />
       <item value="统计" />
@@ -46,7 +47,6 @@
       <item value="生成" />
       <item value="创新" />
       <item value="quartz" />
-      <item value="cron" />
       <item value="squirrel" />
       <item value="qualifies" />
       <item value="Resourceless Transaction Manager" />
