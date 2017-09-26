@@ -1,6 +1,9 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="statistics" />
+      <item value="统计" />
+      <item value="集装箱" />
       <item value="文章" />
       <item value="refund" />
       <item value="refond" />
@@ -48,9 +51,6 @@
       <item value="Resourceless Transaction Manager" />
       <item value="get Product Name" />
       <item value="incompatible" />
-      <item value="Eval Matches Bean" />
-      <item value="born Host" />
-      <item value="consume Message" />
     </histories>
   </component>
 </application>
