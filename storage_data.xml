@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="Threshold" />
       <item value="cron" />
       <item value="and Bi Auditionurl Equal To" />
       <item value="statistics" />
@@ -50,7 +51,6 @@
       <item value="squirrel" />
       <item value="qualifies" />
       <item value="Resourceless Transaction Manager" />
-      <item value="get Product Name" />
     </histories>
   </component>
 </application>
