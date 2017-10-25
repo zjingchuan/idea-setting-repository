@@ -1,6 +1,8 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="index" />
+      <item value="iindex" />
       <item value="联通" />
       <item value="开通" />
       <item value="Threshold" />
@@ -49,8 +51,6 @@
       <item value="insert Selective" />
       <item value="生成" />
       <item value="创新" />
-      <item value="quartz" />
-      <item value="squirrel" />
     </histories>
   </component>
 </application>
