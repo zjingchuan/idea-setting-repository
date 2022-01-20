@@ -178,6 +178,10 @@
           <option name="url" value="https://zjingchuan@120.197.60.198:8878/r/unicom/vvm-server-archetype.git" />
           <option name="userName" value="" />
         </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="http://git.iflyvoice.com:8868" />
+          <option name="userName" value="zjingchuan" />
+        </UrlAndUserName>
       </list>
     </option>
     <option name="cloneParentDir" value="D:\WorkSpace\unicom" />
