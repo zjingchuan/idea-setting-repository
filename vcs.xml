@@ -182,9 +182,17 @@
           <option name="url" value="http://git.iflyvoice.com:8868" />
           <option name="userName" value="zjingchuan" />
         </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="http://cmic.tools.bigcloudsys.cn/gitlab/hly/platform/voice-code.git" />
+          <option name="userName" value="" />
+        </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="http://cmic.tools.bigcloudsys.cn" />
+          <option name="userName" value="zhangjingchuan_ex" />
+        </UrlAndUserName>
       </list>
     </option>
-    <option name="cloneParentDir" value="D:\WorkSpace\unicom" />
+    <option name="cloneParentDir" value="D:\WorkSpace\vvm" />
   </component>
   <component name="Vcs.Log.App.Settings">
     <option name="COLUMN_ID_ORDER">
