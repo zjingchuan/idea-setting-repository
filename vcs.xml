@@ -206,6 +206,14 @@
           <option name="url" value="https://git.iflyvoice.com:8868/nlp/nlp-msgw.git" />
           <option name="userName" value="" />
         </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="https://git.iflyvoice.com:8868/nlp/nlp-wechat.git" />
+          <option name="userName" value="" />
+        </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="https://git.iflyvoice.com:8868/nlp/nlp-right.git" />
+          <option name="userName" value="" />
+        </UrlAndUserName>
       </list>
     </option>
     <option name="cloneParentDir" value="D:\WorkSpace\nlp" />
