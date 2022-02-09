@@ -234,6 +234,10 @@
           <option name="url" value="http://cmic.tools.bigcloudsys.cn/gitlab/hly/platform/core.git" />
           <option name="userName" value="" />
         </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="https://git.iflyvoice.com:8868/cmcc-vvm-platform/slcommon.git" />
+          <option name="userName" value="" />
+        </UrlAndUserName>
       </list>
     </option>
     <option name="cloneParentDir" value="D:\WorkSpace\vvm" />
