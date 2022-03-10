@@ -254,9 +254,13 @@
           <option name="url" value="http://cmic.tools.bigcloudsys.cn/gitlab/hly/platform/bossgw.git" />
           <option name="userName" value="" />
         </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="https://github.com/apache/rocketmq-spring.git" />
+          <option name="userName" value="" />
+        </UrlAndUserName>
       </list>
     </option>
-    <option name="cloneParentDir" value="D:\WorkSpace\vvm" />
+    <option name="cloneParentDir" value="D:\WorkSpace\opensource" />
   </component>
   <component name="Vcs.Log.App.Settings">
     <option name="COLUMN_ID_ORDER">
