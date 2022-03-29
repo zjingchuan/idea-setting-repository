@@ -286,9 +286,17 @@
           <option name="url" value="http://cmic.tools.bigcloudsys.cn/gitlab/hly/platform/httpserver.git" />
           <option name="userName" value="" />
         </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="https://git.iflyvoice.com:8868/nlp/nlp-liusheng.git" />
+          <option name="userName" value="" />
+        </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="https://git.iflyvoice.com:8868/nlp/nlp-vercode.git" />
+          <option name="userName" value="" />
+        </UrlAndUserName>
       </list>
     </option>
-    <option name="cloneParentDir" value="D:\WorkSpace\vvm" />
+    <option name="cloneParentDir" value="D:\WorkSpace\nlp" />
   </component>
   <component name="Vcs.Log.App.Settings">
     <option name="COLUMN_ID_ORDER">
