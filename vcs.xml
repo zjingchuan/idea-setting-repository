@@ -302,6 +302,10 @@
           <option name="url" value="https://git.iflyvoice.com:8868/nlp/nlp-vrimage.git" />
           <option name="userName" value="" />
         </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="https://git.iflyvoice.com:8868/nlp/tts-server.git" />
+          <option name="userName" value="" />
+        </UrlAndUserName>
       </list>
     </option>
     <option name="cloneParentDir" value="D:\WorkSpace\nlp" />
