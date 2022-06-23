@@ -330,6 +330,10 @@
           <option name="url" value="http://cmic.tools.bigcloudsys.cn/gitlab/hly/platform/smstemplate.git" />
           <option name="userName" value="" />
         </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="http://cmic.tools.bigcloudsys.cn/gitlab/hly/platform/smshttp.git" />
+          <option name="userName" value="" />
+        </UrlAndUserName>
       </list>
     </option>
     <option name="cloneParentDir" value="D:\WorkSpace\vvm" />
