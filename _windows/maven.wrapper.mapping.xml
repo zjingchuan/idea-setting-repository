@@ -3,6 +3,7 @@
     <option name="mapping">
       <map>
         <entry key="https://repo.maven.apache.org/maven2/org/apache/maven/apache-maven/3.5.4/apache-maven-3.5.4-bin.zip" value="C:\Users\admin\.m2\wrapper\dists\apache-maven-3.5.4-bin\4lcg54ki11c6mp435njk296gm5\apache-maven-3.5.4" />
+        <entry key="https://repo.maven.apache.org/maven2/org/apache/maven/apache-maven/3.6.2/apache-maven-3.6.2-bin.zip" value="C:\Users\admin\.m2\wrapper\dists\apache-maven-3.6.2-bin\795eh28tki48bv3l67maojf0ra\apache-maven-3.6.2" />
         <entry key="https://repo1.maven.org/maven2/org/apache/maven/apache-maven/3.5.3/apache-maven-3.5.3-bin.zip" value="C:\Users\admin\.m2\wrapper\dists\apache-maven-3.5.3-bin\2c22a6s60afpuloj4v181qvild\apache-maven-3.5.3" />
       </map>
     </option>
