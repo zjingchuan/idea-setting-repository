@@ -6,6 +6,7 @@
       <mapping ext="main.kts" type="Kotlin" />
       <mapping ext="mpp" type="Native" />
       <mapping ext="vsdx" type="Native" />
+      <mapping ext="wav" type="Native" />
       <mapping ext="exe" type="Native" />
       <mapping pattern="ls" type="PLAIN_TEXT" />
       <mapping pattern="button_divider" type="PLAIN_TEXT" />
