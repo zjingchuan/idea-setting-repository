@@ -25,6 +25,7 @@
       <mapping ext="keystore" type="PLAIN_TEXT" />
       <mapping ext="so" type="PLAIN_TEXT" />
       <mapping ext="appcache" type="PLAIN_TEXT" />
+      <mapping ext="gitignore__" type="PLAIN_TEXT" />
       <mapping ext="progerties" type="PLAIN_TEXT" />
       <mapping ext="containe" type="PLAIN_TEXT" />
       <mapping pattern="Mp3Player" type="TypeScript" />
