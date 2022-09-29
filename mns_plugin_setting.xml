@@ -1,6 +1,5 @@
 <application>
   <component name="me.bytebeats.mns.ui.AppSettingState">
-    <option name="isHiddenMode" value="true" />
     <option name="dailyFunds" value="320003;002621;519674;;005229;014529;014535;014534;004488" />
     <option name="stockSymbol" value="sz002352" />
     <option name="localVersion" value="1.8.4" />
