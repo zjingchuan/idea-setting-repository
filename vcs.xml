@@ -378,9 +378,13 @@
           <option name="url" value="https://git.iflyvoice.com:8868/unicom-assistant/activity-server.git" />
           <option name="userName" value="" />
         </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="https://github.com/KindHunter/brave-instrumentation-spring-rocketmq.git" />
+          <option name="userName" value="" />
+        </UrlAndUserName>
       </list>
     </option>
-    <option name="cloneParentDir" value="D:\WorkSpace\nlp" />
+    <option name="cloneParentDir" value="D:\WorkSpace\opensource" />
   </component>
   <component name="Vcs.Log.App.Settings">
     <option name="COLUMN_ID_ORDER">
