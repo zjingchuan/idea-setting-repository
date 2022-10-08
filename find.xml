@@ -1,14 +1,14 @@
 <application>
   <component name="FindSettings">
-    <option name="customScope" value="文件 'D:\Develop\localRepository\org\springframework\cloud\spring-cloud-sleuth-core\2.1.6.RELEASE\spring-cloud-sleuth-core-2.1.6.RELEASE-sources.jar!\org\springframework\cloud\sleuth\autoconfig\TraceAutoConfiguration.java [Maven: org.springframework.cloud:spring-cloud-sleuth-core:2.1.6.RELEASE]'" />
-    <option name="defaultScopeName" value="文件 'D:\Develop\localRepository\org\springframework\cloud\spring-cloud-sleuth-core\2.1.6.RELEASE\spring-cloud-sleuth-core-2.1.6.RELEASE-sources.jar!\org\springframework\cloud\sleuth\autoconfig\TraceAutoConfiguration.java [Maven: org.springframework.cloud:spring-cloud-sleuth-core:2.1.6.RELEASE]'" />
+    <option name="customScope" value="所有位置" />
+    <option name="defaultScopeName" value="所有位置" />
     <option name="localCaseSensitive" value="true" />
     <option name="localRegularExpressions" value="true" />
     <option name="regularExpressions" value="true" />
     <option name="LOCAL_CASE_SENSITIVE_SEARCH" value="true" />
     <option name="REGULAR_EXPRESSIONS" value="true" />
     <option name="LOCAL_REGULAR_EXPRESSIONS" value="true" />
-    <option name="SEARCH_SCOPE" value="文件 'D:\Develop\localRepository\org\springframework\cloud\spring-cloud-sleuth-core\2.1.6.RELEASE\spring-cloud-sleuth-core-2.1.6.RELEASE-sources.jar!\org\springframework\cloud\sleuth\autoconfig\TraceAutoConfiguration.java [Maven: org.springframework.cloud:spring-cloud-sleuth-core:2.1.6.RELEASE]'" />
+    <option name="SEARCH_SCOPE" value="所有位置" />
     <mask>*.css</mask>
     <mask>*.html</mask>
     <mask>*.xml</mask>
