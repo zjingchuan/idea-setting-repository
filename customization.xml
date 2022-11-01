@@ -149,7 +149,17 @@
       <path value="运行工具栏微件" />
       <option name="myInitialPosition" value="-1" />
     </group>
-    <group value="ExternalToolsGroup" is_group="true" action_type="1" position="3">
+    <group value="Vcs.ShowTabbedFileHistory" is_action="true" action_type="1" position="3">
+      <path value="root" />
+      <path value="运行工具栏微件" />
+      <option name="myInitialPosition" value="-1" />
+    </group>
+    <group value="UpdateFiles" is_action="true" action_type="1" position="4">
+      <path value="root" />
+      <path value="运行工具栏微件" />
+      <option name="myInitialPosition" value="-1" />
+    </group>
+    <group value="ExternalToolsGroup" is_group="true" action_type="1" position="5">
       <path value="root" />
       <path value="运行工具栏微件" />
       <option name="myInitialPosition" value="-1" />
