@@ -1,0 +1,12 @@
+<application>
+  <component name="MavenCatalogManager">
+    <option name="remote">
+      <list>
+        <Remote>
+          <option name="name" value="pms.iflyvoice.com" />
+          <option name="url" value="http://pms.iflyvoice.com:8879/nexus/content/repositories/public" />
+        </Remote>
+      </list>
+    </option>
+  </component>
+</application>

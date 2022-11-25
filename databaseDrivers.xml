@@ -1,3 +1,61 @@
 <application>
-  <component name="LocalDatabaseDriverManager" version="201" />
+  <component name="LocalDatabaseDriverManager" version="201">
+    <driver id="db2" name="DB2 (LUW)" />
+    <driver id="db2.jtopen" name="DB2 (JTOpen)" />
+    <driver id="derby.embedded" name="Derby (Embedded)" />
+    <driver id="derby.remote" name="Derby (Remote)" />
+    <driver id="mongo">
+      <artifact id="MongoDB" name="MongoDB" use="true" version="1.15" />
+    </driver>
+    <driver id="sqlserver.ms" name="SQL Server (Microsoft)">
+      <option name="auto-sync" value="false" />
+    </driver>
+    <driver id="sqlserver.jtds" name="SQL Server (jTds)">
+      <option name="auto-sync" value="false" />
+    </driver>
+    <driver id="mysql.8">
+      <artifact />
+      <artifact id="MySQL ConnectorJ" name="MySQL ConnectorJ" use="true" version="8.0.25" />
+    </driver>
+    <driver id="mysql" name="MySQL">
+      <artifact id="MySQL Connector/J" name="MySQL Connector/J" use="true" version="5.1.40" />
+      <property name="autoReconnect" value="true" />
+      <library>
+        <url>file://$APPLICATION_CONFIG_DIR$/jdbc-drivers/mysql-connector-license.txt</url>
+      </library>
+      <library>
+        <url>file://$APPLICATION_CONFIG_DIR$/jdbc-drivers/mysql-connector-java-5.1.35-bin.jar</url>
+      </library>
+    </driver>
+    <driver id="oracle" name="Oracle">
+      <artifact id="Oracle" name="Oracle" use="true" version="12.1.0.2" />
+      <option name="auto-sync" value="false" />
+      <library>
+        <url>file://$APPLICATION_CONFIG_DIR$/jdbc-drivers/oracle-driver-license.txt</url>
+      </library>
+      <library>
+        <url>file://$APPLICATION_CONFIG_DIR$/jdbc-drivers/xdb6-12.1.0.2.jar</url>
+      </library>
+      <library>
+        <url>file://$APPLICATION_CONFIG_DIR$/jdbc-drivers/xmlparserv2.jar</url>
+      </library>
+      <library>
+        <url>file://$APPLICATION_CONFIG_DIR$/jdbc-drivers/ojdbc6-12.1.0.2.jar</url>
+      </library>
+    </driver>
+    <driver id="sqlite.xerial" name="Sqlite (Xerial)">
+      <library>
+        <url>file://$APPLICATION_CONFIG_DIR$/jdbc-drivers/xerial-sqlite-license.txt</url>
+      </library>
+      <library>
+        <url>file://$APPLICATION_CONFIG_DIR$/jdbc-drivers/sqlite-jdbc-3.8.9.jar</url>
+      </library>
+    </driver>
+    <driver id="sybase.jtds">
+      <option name="auto-sync" value="false" />
+    </driver>
+    <driver id="sybase.ase" name="Sybase (Native)">
+      <option name="auto-sync" value="false" />
+    </driver>
+  </component>
 </application>
