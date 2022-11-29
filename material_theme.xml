@@ -1,8 +1,12 @@
 <application>
   <component name="MaterialThemeConfig">
+    <option name="compactTables" value="true" />
+    <option name="accentMode" value="true" />
+    <option name="isCompactTables" value="true" />
+    <option name="overrideAccentColor" value="false" />
     <option name="pristineConfig" value="false" />
-    <option name="accentColor" value="387aff" />
-    <option name="selectedTheme" value="NATIVE" />
+    <option name="accentColor" value="7e57c2" />
+    <option name="selectedTheme" value="PALENIGHT" />
     <option name="userId" value="-125d402c:184c0f5e49a:-8000" />
     <option name="version" value="7.14.2" />
   </component>
