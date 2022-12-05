@@ -4,7 +4,7 @@
     <property name="created">2022-11-29T10:49:23</property>
     <property name="ide">idea</property>
     <property name="ideVersion">2022.2.3.0.0</property>
-    <property name="modified">2022-11-29T11:29:31</property>
+    <property name="modified">2022-12-05T19:42:51</property>
     <property name="originalScheme">Material Oceanic</property>
   </metaInfo>
   <console-font>
@@ -1277,22 +1277,32 @@
     </option>
     <option name="INDENT_RAINBOW_COLOR_1">
       <value>
-        <option name="BACKGROUND" value="354039" />
+        <option name="BACKGROUND" value="3e4953" />
       </value>
     </option>
     <option name="INDENT_RAINBOW_COLOR_2">
       <value>
-        <option name="BACKGROUND" value="2c403d" />
+        <option name="BACKGROUND" value="3b4d50" />
       </value>
     </option>
     <option name="INDENT_RAINBOW_COLOR_3">
       <value>
-        <option name="BACKGROUND" value="353746" />
+        <option name="BACKGROUND" value="424e4e" />
       </value>
     </option>
     <option name="INDENT_RAINBOW_COLOR_4">
       <value>
-        <option name="BACKGROUND" value="293f45" />
+        <option name="BACKGROUND" value="464b4c" />
+      </value>
+    </option>
+    <option name="INDENT_RAINBOW_COLOR_5">
+      <value>
+        <option name="BACKGROUND" value="46464a" />
+      </value>
+    </option>
+    <option name="INDENT_RAINBOW_COLOR_6">
+      <value>
+        <option name="BACKGROUND" value="464148" />
       </value>
     </option>
     <option name="INDENT_RAINBOW_ERROR">

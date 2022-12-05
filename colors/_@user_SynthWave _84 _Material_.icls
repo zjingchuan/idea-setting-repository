@@ -4,7 +4,7 @@
     <property name="created">2022-11-29T09:17:30</property>
     <property name="ide">idea</property>
     <property name="ideVersion">2022.2.3.0.0</property>
-    <property name="modified">2022-11-29T09:44:23</property>
+    <property name="modified">2022-12-05T19:42:51</property>
     <property name="originalScheme">SynthWave '84 (Material)</property>
   </metaInfo>
   <console-font>
@@ -1249,27 +1249,37 @@
     </option>
     <option name="INDENT_RAINBOW_COLOR_1">
       <value>
-        <option name="BACKGROUND" value="132629" />
+        <option name="BACKGROUND" value="3e3c50" />
       </value>
     </option>
     <option name="INDENT_RAINBOW_COLOR_2">
       <value>
-        <option name="BACKGROUND" value="a262d" />
+        <option name="BACKGROUND" value="3b414d" />
       </value>
     </option>
     <option name="INDENT_RAINBOW_COLOR_3">
       <value>
-        <option name="BACKGROUND" value="131d36" />
+        <option name="BACKGROUND" value="42424b" />
       </value>
     </option>
     <option name="INDENT_RAINBOW_COLOR_4">
       <value>
-        <option name="BACKGROUND" value="72535" />
+        <option name="BACKGROUND" value="463e4a" />
+      </value>
+    </option>
+    <option name="INDENT_RAINBOW_COLOR_5">
+      <value>
+        <option name="BACKGROUND" value="463948" />
+      </value>
+    </option>
+    <option name="INDENT_RAINBOW_COLOR_6">
+      <value>
+        <option name="BACKGROUND" value="463545" />
       </value>
     </option>
     <option name="INDENT_RAINBOW_ERROR">
       <value>
-        <option name="BACKGROUND" value="271925" />
+        <option name="BACKGROUND" value="41222f" />
       </value>
     </option>
     <option name="INFO_ATTRIBUTES">
