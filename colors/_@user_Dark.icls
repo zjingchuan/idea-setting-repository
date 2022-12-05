@@ -3,7 +3,7 @@
     <property name="created">2022-12-05T19:42:28</property>
     <property name="ide">idea</property>
     <property name="ideVersion">2022.2.3.0.0</property>
-    <property name="modified">2022-12-05T19:45:47</property>
+    <property name="modified">2022-12-05T20:01:58</property>
     <property name="originalScheme">Dark</property>
   </metaInfo>
   <colors>
@@ -75,6 +75,9 @@
         <option name="EFFECT_TYPE" value="1" />
       </value>
     </option>
+    <option name="HTML_CODE">
+      <value />
+    </option>
     <option name="INDENT_RAINBOW_COLOR_1">
       <value>
         <option name="BACKGROUND" value="373940" />
@@ -110,10 +113,12 @@
         <option name="BACKGROUND" value="3c1f21" />
       </value>
     </option>
+    <option name="KOTLIN_LABEL">
+      <value />
+    </option>
     <option name="MATCHED_BRACE_ATTRIBUTES">
       <value>
-        <option name="FOREGROUND" value="ced9d2" />
-        <option name="BACKGROUND" value="326146" />
+        <option name="BACKGROUND" value="3b514d" />
         <option name="FONT_TYPE" value="1" />
       </value>
     </option>

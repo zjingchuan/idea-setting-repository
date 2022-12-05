@@ -3,7 +3,7 @@
     <property name="created">2022-12-05T19:42:28</property>
     <property name="ide">idea</property>
     <property name="ideVersion">2022.2.3.0.0</property>
-    <property name="modified">2022-12-05T19:45:47</property>
+    <property name="modified">2022-12-05T20:01:58</property>
     <property name="originalScheme">New Dark</property>
   </metaInfo>
   <colors>
@@ -320,6 +320,9 @@
         <option name="EFFECT_TYPE" value="1" />
       </value>
     </option>
+    <option name="HTML_CODE">
+      <value />
+    </option>
     <option name="HYPERLINK_ATTRIBUTES">
       <value>
         <option name="FOREGROUND" value="548af7" />
@@ -416,6 +419,9 @@
         <option name="BACKGROUND" value="43454a" />
       </value>
     </option>
+    <option name="KOTLIN_LABEL">
+      <value />
+    </option>
     <option name="LINE_FULL_COVERAGE">
       <value>
         <option name="FOREGROUND" value="375239" />
@@ -452,7 +458,7 @@
     </option>
     <option name="MATCHED_BRACE_ATTRIBUTES">
       <value>
-        <option name="BACKGROUND" value="43454a" />
+        <option name="BACKGROUND" value="3b514d" />
         <option name="FONT_TYPE" value="1" />
       </value>
     </option>
