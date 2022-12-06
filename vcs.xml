@@ -414,6 +414,10 @@
           <option name="url" value="https://dev.bol.wo.cn:10011/online-group/bd-woassistant/wozhuliapplication_new/multimedia-ivr-platform/assistant-sms-gw.git" />
           <option name="userName" value="" />
         </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="https://dev.bol.wo.cn:10011/online-group/bd-woassistant/wozhuliapplication_new/multimedia-ivr-platform/assistant-sync-server.git" />
+          <option name="userName" value="" />
+        </UrlAndUserName>
       </list>
     </option>
     <option name="cloneParentDir" value="D:\WorkSpace\unicom2" />
