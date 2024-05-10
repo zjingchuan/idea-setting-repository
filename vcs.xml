@@ -442,6 +442,10 @@
           <option name="url" value="https://git.iflyvoice.com:8868/unicom-assistant/assistant-terminal-server.git" />
           <option name="userName" value="" />
         </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="https://git.iflyvoice.com:8868/unicom-assistant/assistant-msg-server.git" />
+          <option name="userName" value="" />
+        </UrlAndUserName>
       </list>
     </option>
     <option name="cloneParentDir" value="D:\WorkSpace\unicom2" />
