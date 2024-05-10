@@ -450,6 +450,10 @@
           <option name="url" value="https://git.iflyvoice.com:8868/unicom5G/ics-video-server.git" />
           <option name="userName" value="" />
         </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="https://git.iflyvoice.com:8868/unicom-assistant/assistant-bridge-server.git" />
+          <option name="userName" value="" />
+        </UrlAndUserName>
       </list>
     </option>
     <option name="cloneParentDir" value="D:\WorkSpace\unicom2" />
